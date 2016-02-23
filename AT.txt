@@ -1,0 +1,120 @@
+AT,Terminal Arjosari,-7.933197, 112.658065
+AT,Jalan Raden Intan,-7.932844, 112.656863
+AT,jalan Raden Intan,-7.932238, 112.655394
+AT,jalan Raden Intan,-7.931452, 112.653645
+AT,jalan Raden Intan No.103,-7.930729, 112.651875
+AT,jalan Raden Intan No.1,-7.930304, 112.650780
+AT,jalan Jendral Ahmad Yani Utara No.9c,-7.929412, 112.648870
+AT,jalan Jendral Ahmad Yani Utara No.9c,-7.930485, 112.648291
+AT,jalan Jendral Ahmad Yani Utara No.171,-7.932302, 112.647272
+AT,jalan Raya Malang - Surabaya No.153a,-7.933555, 112.646524
+AT,jalan Raya Malang - Surabaya No.127,-7.934936, 112.645736
+AT,jalan Raya Malang - Surabaya No.142,-7.935882, 112.645216
+AT,jalan Raya Malang - Surabaya No.113,-7.936456, 112.644878
+AT,jalan Raya Malang - Surabaya No.112,-7.937173, 112.644481
+AT,jalan Raya Malang - Surabaya No.81,-7.938262, 112.643880
+AT,jalan A. Yani No.55,-7.939654, 112.643247
+AT,jalan Raya Malang - Surabaya No.66,-7.940727, 112.642737
+AT,jalan A. Yani No.26,-7.941981, 112.642179
+AT,jalan A. Yani No.18C,-7.942996, 112.641723
+AT,jalan A. Yani No.18,-7.944627, 112.641047
+AT,jalan Letjend S. Parman No.108,-7.945774, 112.640667
+AT,jalan Letjend S. Parman No.76,-7.947012, 112.640288
+AT,jalan Letjend S. Parman No.82,-7.948691, 112.639842
+AT,jalan Letjend S. Parman No.72,-7.950104, 112.639558
+AT,jalan Letjend S. Parman No.58-D,-7.951045, 112.639370
+AT,jalan Ciliwung No.2,-7.951884, 112.639193
+AT,jalan Ciliwung No.2,-7.952256, 112.640078
+AT,jalan Ciliwung No.8,-7.952586, 112.640872
+AT,jalan Ciliwung No.14,-7.953027, 112.641725
+AT,jalan Ciliwung No.37,-7.953382, 112.642380
+AT,jalan Ciliwung No.30,-7.953653, 112.643007
+AT,jalan Ciliwung No.44,-7.954371, 112.644402
+AT,jalan Ciliwung No.44,-7.954679, 112.645126
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8,-7.955332, 112.644847
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.8,-7.956650, 112.644284
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.143,-7.957611, 112.643839
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.133,-7.958663, 112.643340
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.96,-7.959535, 112.642841
+AT,jalan Letnan Jenderal Sunandar Priyo Sudarmo No.25,-7.961033, 112.642020
+AT,jalan Raden Tumenggung Suryo No.50,-7.961904, 112.641484
+AT,jalan Raden Tumenggung Suryo No.50,-7.962595, 112.641087
+AT,jalan Raden Tumenggung Suryo No.50,-7.963471, 112.640561
+AT,jalan Raden Tumenggung Suryo No.26,-7.964120, 112.640170
+AT,jalan Raden Tumenggung Suryo No.26,-7.964768, 112.639762
+AT,jalan Raden Tumenggung Suryo No.5,-7.965735, 112.639242
+AT,jalan Raden Tumenggung Suryo No.4,-7.966935, 112.638635
+AT,jalan Panglima Sudirman,-7.967541, 112.638314
+AT,jalan Panglima Sudirman No.98,-7.968848, 112.638351
+AT,jalan Panglima Sudirman No.1,-7.970399, 112.638432
+AT,jalan Panglima Sudirman No.1,-7.971759, 112.638464
+AT,jalan Panglima Sudirman No.75,-7.972944, 112.638485
+AT,jalan Patimura,-7.973502, 112.638485
+AT,jalan Patimura No.48,-7.973427, 112.636618
+AT,jalan Patimura No.49,-7.973534, 112.635669
+AT,jalan Patimura No.6,-7.973140, 112.634499
+AT,jalan Belakang Rssa No.2,-7.972551, 112.633427
+AT,jalan Belakang Rssa No.22,-7.973305, 112.633024
+AT,jalan Belakang Rssa No.9A,-7.974453, 112.632681
+AT,jalan Belakang Rssa No.9A,-7.975924, 112.632305
+AT,jalan Belakang Rssa No.9A,-7.975882, 112.631748
+AT,jalan Belakang Rssa No.9A,-7.976540, 112.631565
+AT,jalan Kahuripan No.11,-7.976514, 112.630229
+AT,jalan Semeru No.10,-7.976445, 112.628861
+AT,jalan Semeru No.21,-7.976482, 112.627815
+AT,jalan Arjuno No.19,-7.977422, 112.627424
+AT,jalan Arjuno No.17,-7.978325, 112.627032
+AT,jalan Arjuno No.12,-7.979170, 112.626565
+AT,jalan Kawi No.16,-7.979850, 112.626136
+AT,jalan Kawi No.15,-7.979117, 112.624988
+AT,jalan Kawi No.27,-7.978363, 112.624001
+AT,jalan Kawi No.39,-7.977247, 112.622612
+AT,jalan Kawi No.41,-7.976365, 112.621389
+AT,jalan Kawi Atas No.20,-7.975722, 112.620450
+AT,jalan Kawi Atas No.35,-7.975345, 112.619608
+AT,jalan Panderman No.16,-7.974516, 112.619839
+AT,jalan Pandan No.15,-7.974134, 112.618412
+AT,jalan Pulo Sari No.15,-7.973773, 112.617430
+AT,jalan Pulo Sari No.3,-7.973273, 112.617403
+AT,jalan Wilis No.33,-7.972540, 112.617135
+AT,jalan Wilis No.33,-7.972800, 112.616588
+AT,jalan Wilis No.33,-7.973008, 112.616132
+AT,jalan Gading,-7.972444, 112.615177
+AT,jalan Sanggabuana,-7.972715, 112.615011
+AT,jalan Sanggabuana,-7.972535, 112.613825
+AT,jalan Galunggung No.2,-7.972428, 112.613117
+AT,jalan Bukit Barisan,-7.971812, 112.613165
+AT,jalan Bukit Barisan,-7.971605, 112.612436
+AT,jalan Lokon,-7.971366, 112.612049
+AT,jalan Lokon,-7.970505, 112.612253
+AT,jalan Lokon,-7.969708, 112.612323
+AT,jalan Lokon,-7.968433, 112.612489
+AT,jalan Lokon,-7.967557, 112.612693
+AT,jalan Lokon,-7.966999, 112.612843
+AT,jalan Tidar No.6,-7.966856, 112.612302
+AT,jalan Tidar No.16,-7.966675, 112.611717
+AT,jalan Tidar No.24,-7.966361, 112.610515
+AT,jalan Tidar No.32,-7.966239, 112.609780
+AT,jalan Tidar No.32,-7.966099, 112.609260
+AT,jalan Tidar No.32,-7.965942, 112.608409
+AT,jalan Simpang Tidar,-7.965799, 112.607626
+AT,jalan Tidar No.50d,-7.965684, 112.606730
+AT,jalan Tidar No.50d,-7.965634, 112.606221
+AT,jalan Puncak Mandala No.4E,-7.965427, 112.605853
+AT,jalan Puncak Mandala No.7,-7.965273, 112.605320
+AT,jalan Puncak Mandala No.38,-7.965071, 112.604558
+AT,jalan Puncak Mandala No.44A,-7.964842, 112.603681
+AT,jalan Puncak Mandala No.44,-7.964510, 112.603091
+AT,jalan Puncak Yamin No.10,-7.963817, 112.602536
+AT,jalan Puncak Yamin No.19,-7.963317, 112.602106
+AT,jalan Puncak Yamin No.25,-7.962922, 112.601715
+AT,jalan Puncak Yamin No.27,-7.962842, 112.601202
+AT,jalan Esbreg No.6,-7.962605, 112.600669
+AT,jalan Esbreg No.6,-7.962180, 112.600293
+AT,jalan Esbreg No.6,-7.961931, 112.600060
+AT,jalan Esbreg No.6,-7.961264, 112.599515
+AT,jalan Puncak Esberg No.3,-7.960685, 112.599016
+AT,jalan Puncak Trikora,-7.960135, 112.599274
+AT,jalan Himalaya VE 4-5,-7.959710, 112.599577
+AT,jalan Himalaya VE 4-5,-7.959328, 112.599247
+AT,Pangkalan Angkot AT Malang,-7.9597911,112.5989655

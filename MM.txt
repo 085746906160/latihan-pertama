@@ -1,0 +1,265 @@
+MM, SUB Terminal Mulyorejo, -7.990378, 112.599420
+MM, Jalan Raya Mulyorejo No.95, -7.989984, 112.599892
+MM, Jalan Raya Mulyorejo No.95, -7.989782, 112.599713
+MM, Jalan Raya Mulyorejo No.95, -7.989624, 112.599575
+MM, Jalan Raya Mulyorejo No.95, -7.989470, 112.599433
+MM, Jalan Raya Mulyorejo No.95, -7.989152, 112.599102
+MM, Jalan Raya Mulyorejo No.95, -7.988911, 112.598851
+MM, Jalan Raya Mulyorejo No.95, -7.988648, 112.598605
+MM, Jalan Raya Mulyorejo No.95, -7.988455, 112.598446
+MM, Jalan Raya Mulyorejo No.95, -7.988222, 112.598258
+MM, Jalan Raya Mulyorejo No.95, -7.988054, 112.598143
+MM, Jalan Raya Mulyorejo No.11, -7.987756, 112.597957
+MM, Jalan Raya Mulyorejo No.11, -7.987546, 112.598062
+MM, Jalan Raya Mulyorejo No.11, -7.987327, 112.598163
+MM, Jalan Cindelaras No.17, -7.987147, 112.598256
+MM, Jalan Raya Mulyorejo No.85 A, -7.986877, 112.598358
+MM, Jalan Raya Mulyorejo No.55, -7.986606, 112.598471
+MM, Jalan Raya Mulyorejo No.55, -7.986459, 112.598527
+MM, Jalan Raya Mulyorejo No.55, -7.986204, 112.598629
+MM, Jalan Raya Mulyorejo No.55, -7.985976, 112.598784
+MM, Jalan Raya Mulyorejo No.24, -7.985862, 112.599035
+MM, Jalan Raya Mulyorejo No.9, -7.985854, 112.599340
+MM, Jalan Raya Mulyorejo No.9, -7.985903, 112.599467
+MM, Jalan Raya Mulyorejo No.24, -7.986119, 112.599876
+MM, Jalan Raya Mulyorejo No.30, -7.986120, 112.599892
+MM, Jalan Raya Mulyorejo No.25, -7.986207, 112.600069
+MM, Jalan Raya Mulyorejo No.25, -7.986422, 112.600526
+MM, Jalan Raya Tebo Utara No.1, -7.986631, 112.600961
+MM, Jalan Raya Bandulan, -7.986273, 112.601140
+MM, Jalan Raya Bandulan No.9, -7.985723, 112.601277
+MM, Gang Keramat, -7.985464, 112.601645
+MM, Jalan Raya Bandulan No.9, -7.985259, 112.601773
+MM, Jalan Raya Tebo Utara No.10, -7.985113, 112.601838
+MM, Jalan Raya Tebo Utara No.26, -7.984903, 112.601901
+MM, Jalan Raya Tebo Utara No.26, -7.984730, 112.601965
+MM, Jalan Raya Tebo Utara No.23, -7.984392, 112.602114
+MM, Jalan Raya Tebo Utara No.30, -7.984080, 112.602248
+MM, Jalan Raya Bandulan No.202, -7.983577, 112.602456
+MM, Jalan Raya Bandulan No.181, -7.983207, 112.602599
+MM, Gang Buntu, -7.982771, 112.602784
+MM, Jalan Raya Bandulan No.182, -7.982329, 112.602946
+MM, Jalan Raya Bandulan No.134, -7.982044, 112.603052
+MM, Gang XIb No.541, -7.982352, 112.603887
+MM, Jalan Bandulan Gang 12, -7.982397, 112.604126
+MM, Jalan Raya Bandulan No.136, -7.982554, 112.604784
+MM, Gang XI, -7.982580, 112.604776
+MM, Jalan Raya Bandulan No.130, -7.982689, 112.605294
+MM, Jalan Raya Bandulan No.115, -7.982835, 112.605828
+MM, Jalan Raya Bandulan No.100, -7.982907, 112.606112
+MM, Jalan Raya Bandulan No.92, -7.982987, 112.606496
+MM, Jalan Raya Bandulan No.92, -7.983104, 112.606914
+MM, Jalan Raya Bandulan No.64, -7.983242, 112.607445
+MM, Jalan Raya Bandulan No.64, -7.983375, 112.607869
+MM, Jalan Raya Bandulan No.71, -7.983452, 112.608164
+MM, Jalan Raya Bandulan No.48, -7.983494, 112.608448
+MM, Jalan Raya Bandulan No.48, -7.983568, 112.608859
+MM, Jalan Raya Bandulan No.43, -7.983603, 112.609307
+MM, Gang 4, -7.983611, 112.609642
+MM, Jalan Raya Bandulan No.16, -7.983635, 112.609988
+MM, Jalan Raya Bandulan No.16, -7.983661, 112.610253
+MM, Jalan Raya Bandulan No.12, -7.983707, 112.610790
+MM, Jalan Raya Bandulan No.6, -7.983792, 112.611195
+MM, Jalan Raya Bandulan No.6, -7.983922, 112.611506
+MM, Jalan Raya Bandulan No.6, -7.984150, 112.611710
+MM, Jalan Raya Bandulan No.6, -7.983993, 112.612254
+MM, Jalan Jupri No.39, -7.983887, 112.612761
+MM, Jalan Jupri No.635, -7.983823, 112.613113
+MM, Jalan Raya Langsep, -7.983545, 112.614204
+MM, Jalan Jupri No.628, -7.983691, 112.613606
+MM, Jalan Raya Langsep, -7.982846, 112.614365
+MM, Jalan Raya Langsep No.70, -7.982187, 112.614510
+MM, Jalan Raya Langsep No.68, -7.981829, 112.614572
+MM, Jalan Raya Langsep No.62, -7.981417, 112.614591
+MM, Jalan Anggur, -7.980588, 112.614269
+MM, Jalan Raya Langsep No.50, -7.980099, 112.614035
+MM, Jalan Raya Langsep No.40, -7.979672, 112.613810
+MM, Jalan Raya Langsep No.40, -7.979281, 112.613539
+MM, Jalan Raya Langsep No.31, -7.978856, 112.613228
+MM, Jalan Raya Langsep No.25, -7.978423, 112.612917
+MM, Jalan Raya Langsep No.21 A, -7.977860, 112.612606
+MM, Jalan Raya Langsep No.18, -7.977297, 112.612453
+MM, Jalan Raya Langsep No.16B, -7.976840, 112.612453
+MM, Jalan Raya Langsep No.10, -7.976630, 112.612469
+MM, Jalan Raya Langsep No.10, -7.975501, 112.612617
+MM, Jalan Raya Langsep No.2, -7.974785, 112.612782
+MM, Jalan Raya Langsep No.2C, -7.974106, 112.612881
+MM, Jalan Raya Langsep No.1 D, -7.973391, 112.612971
+MM, Jalan Terusan Dieng No.40, -7.973177, 112.612980
+MM, Jalan Dieng No.22, -7.973234, 112.613928
+MM, Jalan Dieng No.10, -7.973255, 112.614803
+MM, Jalan Dieng No.10, -7.973330, 112.615532
+MM, Jalan Terusan Kawi No.9, -7.973840, 112.616058
+MM, Jalan Terusan Kawi No.10, -7.974137, 112.616466
+MM, Jalan Terusan Kawi No.10, -7.974355, 112.616874
+MM, Jalan Kawi Atas No.54, -7.974557, 112.617313
+MM, Jalan Kawi Atas No.54, -7.974780, 112.617898
+MM, Jalan Kawi Atas No.52, -7.974934, 112.618392
+MM, Jalan Kawi Atas No.29, -7.975247, 112.619341
+MM, Jalan Panderman, -7.975332, 112.619626
+MM, Jalan Kawi Atas No.20, -7.975566, 112.620162
+MM, Jalan Ijen No.10, -7.975726, 112.620564
+MM, Jalan Kawi No.41, -7.975789, 112.620747
+MM, Jalan Taman Slamet No.25, -7.976267, 112.621455
+MM, Jalan Sumbing, -7.976730, 112.622088
+MM, Jalan Kawi No.24, -7.977218, 112.622721
+MM, Jalan Kawi No.20-24, -7.977622, 112.623230
+MM, Jalan Kawi No.27, -7.978260, 112.624057
+MM, Jalan Kawi No.15, -7.978860, 112.624791
+MM, Jalan Bromo No.4, -7.979147, 112.625242
+MM, Jalan Kawi No.15, -7.979397, 112.625510
+MM, Jalan Kawi No.16, -7.979837, 112.626143
+MM, Jalan Kawi No.16, -7.980103, 112.626481
+MM, Jalan Kawi No.16, -7.980453, 112.626953
+MM, Jalan Arif Rahman Hakim No.22, -7.980915, 112.627591
+MM, Jalan Arif Rahman Hakim No.18, -7.981101, 112.628514
+MM, Akademi komunitas Semen Indonesia, -7.981248, 112.629083
+MM, Jalan Arif Rahman Hakim No.6, -7.981370, 112.629529
+MM, Jalan Merdeka Utara No.10, -7.981578, 112.630376
+MM, Jalan Merdeka Utara No.10, -7.981732, 112.631090
+MM, Jalan Merdeka Utara No.10, -7.981886, 112.631715
+MM, Jalan MGR Sugiyopranoto No.4, -7.981469, 112.631817
+MM, Jalan Aries Munandar No.1, -7.981097, 112.631910
+MM, Jalan MGR Sugiyopranoto No.11A, -7.980610, 112.631897
+MM, Jalan MGR Sugiyopranoto No.11A, -7.980487, 112.631680
+MM, Jalan MGR Sugiyopranoto No.7, -7.980386, 112.631310
+MM, Jalan Mojopahit No.1A, -7.980266, 112.630892
+MM, Jalan Mojopahit No.1A, -7.979738, 112.631065
+MM, Jalan Mojopahit No.1K, -7.979366, 112.631189
+MM, Jalan Mojopahit No.1, -7.979160, 112.631355
+MM, Jalan Mojopahit No.3, -7.979050, 112.631731
+MM, Jalan Mojopahit No.3, -7.978917, 112.632175
+MM, Jalan Mojopahit No.3, -7.978813, 112.632462
+MM, Jalan Mojopahit No.1, -7.978437, 112.632832
+MM, Jalan Mojopahit No.1, -7.978036, 112.633199
+MM, Balaikota Malang, Jalan Tugu No.1, -7.977575, 112.633613
+MM, Balaikota Malang, Jalan Tugu No.1, -7.977303, 112.633470
+MM, Balaikota Malang, Jalan Tugu No.1, -7.976965, 112.633476
+MM, Balaikota Malang, Jalan Tugu No.1, -7.976734, 112.633575
+MM, Jalan Tugu No.1A, -7.976526, 112.633875
+MM, Jalan Suropati No.12, -7.976504, 112.634108
+MM, Jalan Tugu No.1A, -7.976561, 112.634315
+MM, Jalan Tugu No.1A, -7.976668, 112.634503
+MM, Jalan Tugu No.1A, -7.976930, 112.634656
+MM, Jalan Tugu No.1A, -7.977136, 112.634669
+MM, Jalan Kertanegara No.1, -7.977202, 112.635046
+MM, Jalan Sultan Agung No.16, -7.977268, 112.635477
+MM, Jalan Kertanegara No.1, -7.977335, 112.635828
+MM, Jalan Kertanegara No.3, -7.977398, 112.636105
+MM, Jalan Ronggo Warsito, -7.977439, 112.636402
+MM, Jalan Kertanegara No.3, -7.977483, 112.636794
+MM, Jalan Trunojoyo No.81, -7.976844, 112.636762
+MM, Jalan Trunojoyo No.78-81, -7.976586, 112.636754
+MM, Jalan Trunojoyo No.78, -7.976275, 112.636746
+MM, Jalan Trunojoyo No.19, -7.975858, 112.636716
+MM, Jalan Trunojoyo No.19, -7.975476, 112.636703
+MM, Jalan Trunojoyo No.44, -7.975099, 112.636698
+MM, Jalan Trunojoyo No.21, -7.974804, 112.636684
+MM, Jalan Trunojoyo No.27, -7.974477, 112.636671
+MM, Jalan SIMP Pattimura, -7.974400, 112.636671
+MM, Jalan Trunojoyo No.31 A, -7.973991, 112.636657
+MM, Jalan Trunojoyo No.33, -7.973715, 112.636636
+MM, Jalan Patimura No.65, -7.973423, 112.636625
+MM, Jalan Patimura No.1, -7.973412, 112.636993
+MM, Jalan Patimura No.1 C, -7.973404, 112.637301
+MM, Jalan Patimura No.1 C, -7.973446, 112.637669
+MM, Jalan Patimura, -7.973465, 112.638106
+MM, Jalan Panglima Sudirman No.12, -7.973489, 112.638505
+MM, Jalan Panglima Sudirman No.23, -7.973606, 112.638519
+MM, Jalan Urip Sumoharjo No.69, -7.973725, 112.638728
+MM, Jalan Urip Sumoharjo No.69, -7.973973, 112.639093
+MM, Jalan Urip Sumoharjo No.69, -7.974136, 112.639335
+MM, Jalan Urip Sumoharjo No.69, -7.974306, 112.639587
+MM, Jalan Urip Sumoharjo No.24, -7.974493, 112.639887
+MM, Jalan Urip Sumoharjo No.24, -7.974920, 112.640445
+MM, Jalan Urip Sumoharjo No.30, -7.975217, 112.640889
+MM, Jalan Urip Sumoharjo No.30, -7.975448, 112.641195
+MM, Jalan Urip Sumoharjo No.38, -7.975928, 112.641775
+MM, Jalan Naratama Barat, -7.976316, 112.642203
+MM, Jalan Urip Sumoharjo No.53, -7.976651, 112.642598
+MM, Jalan Urip Sumoharjo No.49, -7.976970, 112.642972
+MM, Jalan Urip Sumoharjo No.13, -7.977428, 112.643517
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.209, -7.977791, 112.644283
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.213, -7.978160, 112.645039
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.1H, -7.978429, 112.645514
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.1H, -7.978535, 112.645798
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.1H, -7.978641, 112.646332
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.8, -7.978763, 112.647120
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.8-13, -7.978832, 112.647609
+MM, Mayor Jenderal Muhammad Wiyono No.13-22, -7.978883, 112.648102
+MM, Jalan Mayor Jenderal Muhammad Wiyono No.22, -7.978971, 112.648770
+MM, Jalan Ranu Grati No.22, -7.979048, 112.649314
+MM, Jalan Ranu Grati No.24, -7.979183, 112.649759
+MM, Jalan Ranu Grati No.31, -7.979348, 112.650285
+MM, Jalan Ranu Grati No.34, -7.979415, 112.650446
+MM, Jalan Ranu Grati No.35, -7.979635, 112.651082
+MM, Jalan Ranu Grati No.35, -7.979781, 112.651521
+MM, Jalan Ranu Grati No.46-52, -7.979994, 112.652063
+MM, Jalan Ranu Grati No.60, -7.980137, 112.652323
+MM, Gang II, -7.980294, 112.652597
+MM, Jalan Ranu Grati No.37, -7.980514, 112.652967
+MM, Jalan Ranu Grati No.37a, -7.980684, 112.653284
+MM, Jalan Ranu Grati No.29 B, -7.980878, 112.653606
+MM, Jalan Danau Ranau, -7.981120, 112.654045
+MM, Jalan Danau Toba, -7.981253, 112.654289
+MM, Jalan Danau Toba, -7.981375, 112.654571
+MM, Jalan Danau Toba, -7.981399, 112.654697
+MM, Jalan Danau Toba, -7.981372, 112.654933
+MM, Jalan Danau Toba, -7.981186, 112.655381
+MM, Jalan Danau Toba, -7.981014, 112.655733
+MM, Jalan Danau Toba, -7.980902, 112.655966
+MM, Jalan Danau Toba, -7.980684, 112.656406
+MM, Jalan Danau Toba, -7.980485, 112.656800
+MM, Jalan Danau Toba, -7.980267, 112.657229
+MM, Jalan Danau Toba, -7.980081, 112.657573
+MM, Jalan Danau Toba, -7.979895, 112.657927
+MM, Jalan Danau Toba, -7.979723, 112.658254
+MM, Jalan Danau Toba, -7.979494, 112.658753
+MM, Jalan Danau Toba, -7.979274, 112.659182
+MM, Jalan Anggada Sawojajar 2 No.9, -7.979043, 112.659646
+MM, Jalan Danau Toba II, -7.979275, 112.660111
+MM, Jalan Danau Toba, -7.979407, 112.660377
+MM, Jalan Danau Toba, -7.979663, 112.660837
+MM, Jalan Danau Sentarum Raya No.14, -7.979848, 112.661140
+MM, Jalan Danau Toba, -7.980115, 112.661636
+MM, Jalan Danau Bedali, -7.980401, 112.662148
+MM, Jalan Sentani Utara IX, -7.980617, 112.662519
+MM, Jalan Ki Ageng Gribig No.4, -7.980799, 112.662784
+MM, Jalan Ki Ageng Gribig No.4, -7.980755, 112.662848
+MM, Jalan Ki Ageng Gribig No.117, -7.980639, 112.663561
+MM, Jalan Ki Ageng Gribig No.50, -7.980599, 112.663967
+MM, Jalan Ki Ageng Gribig No.49, -7.980550, 112.664441
+MM, Jalan Ki Ageng Gribig Gang III, -7.980527, 112.664847
+MM, Jalan Ki Ageng Gribig No.143, -7.980465, 112.665505
+MM, Jalan Sentani Timur, -7.980431, 112.665871
+MM, Jalan Ki Ageng Gribig No.144 A, -7.980371, 112.666640
+MM, Jalan Ki Ageng Gribig No.144 A, -7.980337, 112.667132
+MM, Jalan Danau Sentani Timur Dalam IX, -7.980322, 112.667524
+MM, Jalan Ki Ageng Gribig No.1, -7.980299, 112.667971
+MM, Jalan Ki Ageng Gribig No.1, -7.980261, 112.668595
+MM, Jalan Ki Ageng Gribig No.1, -7.980212, 112.668904
+MM, Jalan Ki Ageng Gribig No.1, -7.980047, 112.669220
+MM, Jalan Ki Ageng Gribig No.1, -7.979931, 112.669351
+MM, Jalan Ki Ageng Gribig No.29 L, -7.979290, 112.669730
+MM, Jalan Danau Bratan Timur, -7.979073, 112.669867
+MM, Jalan Ki Ageng Gribig No.29 L, -7.978720, 112.670081
+MM, Jalan Ki Ageng Gribig No.29 L, -7.978492, 112.670213
+MM, Jalan Ki Ageng Gribig No.29 L, -7.978186, 112.670405
+MM, Jalan Ki Ageng Gribig No.9, -7.977979, 112.670523
+MM, Jalan Ki Ageng Gribig No.9, -7.977797, 112.670630
+MM, Jalan Danau Bratan Timur VI No.23, -7.977611, 112.670731
+MM, Jalan Ki Ageng Gribig No.9, -7.977446, 112.670827
+MM, Jalan Danau Bratan Timur VII, -7.977230, 112.670953
+MM, Jalan Ki Ageng Gribig I, -7.976975, 112.671109
+MM, Jalan Ki Ageng Gribig No.40, -7.976592, 112.671327
+MM, Jalan Ki Ageng Gribig No.40, -7.976198, 112.671556
+MM, Jalan Danau Jonge No.L29, -7.975867, 112.671711
+MM, Jalan Danau Bratan Timur XIA, -7.975801, 112.671605
+MM, Jalan Danau Jonge No.L29, -7.975399, 112.671005
+MM, Jalan Danau Bratan Timur VIII No.44, -7.975052, 112.670504
+MM, Jalan Danau Jonge No.1, -7.974825, 112.670212
+MM, Jalan Danau Jonge No.1, -7.974452, 112.669710
+MM, Jalan Danau Jonge No.1, -7.974384, 112.669765
+MM, Jalan Danau Jonge No.1, -7.974509, 112.669942
+MM, Jalan Danau Jonge No.1, -7.974737, 112.670248
+MM, SUB Terminal Madyopuro, -7.974506, 112.670712

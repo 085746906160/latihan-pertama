@@ -1,0 +1,247 @@
+AJG,Terminal Arjosari,-7.933216, 112.658051
+AJG,Jalan Raden Intan No.99,-7.933009, 112.657614
+AJG,Jalan Raden Intan,-7.932847, 112.656860
+AJG,Jalan Raden Intan,-7.932522, 112.656058
+AJG,Jalan Raden Intan,-7.932265, 112.655414
+AJG,Jalan Raden Intan,-7.931917, 112.654623
+AJG,Jalan Teluketna No.63,-7.931449, 112.653582
+AJG,Jalan Raden Intan No.103,-7.931024, 112.652585
+AJG,Jalan Raden Intan No.103,-7.930636, 112.651614
+AJG,Jalan Raden Intan No.1,-7.930280, 112.650699
+AJG,Jalan Panjisuroso,-7.930950, 112.650420
+AJG,Jalan Panjisuroso No.15,-7.931571, 112.650157
+AJG,Jalan Panjisuroso No.15,-7.932265, 112.649918
+AJG,Jalan Panjisuroso No.15,-7.933136, 112.649741
+AJG,Jalan Panjisuroso No.20,-7.933771, 112.649685
+AJG,Jalan Panjisuroso No.89,-7.934539, 112.649680
+AJG,Jalan Panjisuroso No.89,-7.935094, 112.649693
+AJG,Jalan Panjisuroso No.16,-7.935811, 112.649717
+AJG,Jalan Panjisuroso No.20a,-7.936653, 112.649723
+AJG,Jalan Panjisuroso No.93-97,-7.937336, 112.649741
+AJG,Jalan Panjisuroso No.125,-7.938003, 112.649755
+AJG,Jalan Panjisuroso No.6B,-7.938869, 112.649755
+AJG,Jalan Plaosan Timur No.111,-7.939488, 112.649685
+AJG,Jalan Panjisuroso No.76,-7.940149, 112.649538
+AJG,Jalan Panjisuroso No.78,-7.940760, 112.649377
+AJG,Jalan Panjisuroso No.A3,-7.941369, 112.649229
+AJG,Jalan Panjisuroso No.A3,-7.942014, 112.649009
+AJG,Jalan Panjisuroso No.3A,-7.942373, 112.648805
+AJG,Jalan Panjisuroso No.3A,-7.942803, 112.648604
+AJG,Jalan Panjisuroso No.3A,-7.943279, 112.648416
+AJG,Jalan Laksda Adi Sucipto No.140,-7.943744, 112.648202
+AJG,Jalan Laksda Adi Sucipto No.140,-7.943504, 112.647684
+AJG,Jalan Laksda Adi Sucipto No.140,-7.943284, 112.647271
+AJG,Jalan Laksda Adi Sucipto No.74,-7.943066, 112.646874
+AJG,Jalan Laksda Adi Sucipto No.74,-7.942816, 112.646370
+AJG,Jalan Laksda Adi Sucipto No.74,-7.942527, 112.645890
+AJG,Jalan Laksda Adi Sucipto No.74,-7.942275, 112.645495
+AJG,Jalan Laksda Adi Sucipto No.36,-7.941998, 112.645002
+AJG,Jalan Laksda Adi Sucipto No.36,-7.941674, 112.644447
+AJG,Jalan Laksda Adi Sucipto No.22a,-7.941385, 112.643918
+AJG,Jalan Laksda Adi Sucipto No.22a,-7.941069, 112.643387
+AJG,Jalan Laksda Adi Sucipto No.5,-7.940747, 112.642789
+AJG,Jalan Ahmad. Yani No.30,-7.941135, 112.642553
+AJG,Jalan A. Yani No.30,-7.941836, 112.642239
+AJG,Jalan A. Yani No.26,-7.942413, 112.641966
+AJG,Jalan A. Yani No.18C,-7.943026, 112.641700
+AJG,Jalan A. Yani No.18,-7.943721, 112.641409
+AJG,Jalan A. Yani No.18,-7.944616, 112.641047
+AJG,Jalan Letjend S. Parman No.121,-7.945334, 112.640773
+AJG,Jalan Letjend S. Parman No.137,-7.946031, 112.640562
+AJG,Jalan Letjend S. Parman No.76,-7.946535, 112.640411
+AJG,Jalan Letjend S. Parman No.76,-7.946992, 112.640280
+AJG,Jalan Letjend S. Parman No.82,-7.947547, 112.640146
+AJG,Jalan Letjend S. Parman No.82,-7.948092, 112.640001
+AJG,Jalan Letjend S. Parman No.82,-7.948605, 112.639861
+AJG,Jalan Letjend S. Parman No.78,-7.948793, 112.639827
+AJG,Jalan Letjend S. Parman No.72,-7.949529, 112.639671
+AJG,Jalan Letjend S. Parman No.72,-7.950100, 112.639537
+AJG,Jalan Letjend S. Parman No.58-D,-7.950836, 112.639397
+AJG,Jalan Letjend S. Parman No.52,-7.951556, 112.639266
+AJG,Jalan Letjend S. Parman No.1,-7.951893, 112.639183
+AJG,Jalan Letjend S. Parman No.36,-7.952863, 112.638968
+AJG,Jalan Letjend S. Parman No.31,-7.953516, 112.638773
+AJG,Jalan Letjend S. Parman No.36,-7.954186, 112.638646
+AJG,Jalan Letjend S. Parman No.9,-7.954722, 112.638523
+AJG,Jalan Letjend S. Parman No.9,-7.955190, 112.638413
+AJG,Jalan Letjen Sutoyo No.178,-7.955530, 112.638346
+AJG,Jalan Letjen Sutoyo No.117,-7.956255, 112.638169
+AJG,Jalan Letjen Sutoyo No.97,-7.956635, 112.638083
+AJG,Jalan Letjen Sutoyo No.122,-7.957381, 112.637922
+AJG,Jalan Letjen Sutoyo No.118A,-7.957886, 112.637807
+AJG,Jalan Indragiri,-7.958048, 112.638306
+AJG,Jalan Indragiri,-7.958237, 112.638880
+AJG,Jalan Indragiri No.22,-7.958465, 112.639459
+AJG,Jalan Indragiri No.1a,-7.958694, 112.640092
+AJG,Jalan Indragiri No.1a,-7.958880, 112.640599
+AJG,Jalan Indragiri No.1a,-7.959090, 112.641144
+AJG,Jalan Indragiri No.1a,-7.959260, 112.641659
+AJG,Jalan Indragiri No.7,-7.959775, 112.641583
+AJG,Jalan Indragiri No.7,-7.960152, 112.641423
+AJG,Jalan Indragiri No.25,-7.960644, 112.641240
+AJG,Jalan Indragiri No.23,-7.960853, 112.641659
+AJG,Jalan Raden Tumenggung Suryo No.50,-7.962981, 112.640849
+AJG,Jalan Raden Tumenggung Suryo No.50,-7.963295, 112.640667
+AJG,Jalan Raden Tumenggung Suryo No.26,-7.963685, 112.640439
+AJG,Jalan Raden Tumenggung Suryo No.26,-7.964068, 112.640219
+AJG,Jalan Raden Tumenggung Suryo No.26,-7.964429, 112.639991
+AJG,Jalan Raden Tumenggung Suryo No.26,-7.964729, 112.639809
+AJG,Jalan Raden Tumenggung Suryo No.26,-7.965231, 112.639540
+AJG,Jalan Raden Tumenggung Suryo No.5,-7.965630, 112.639318
+AJG,Jalan Raden Tumenggung Suryo No.14,-7.966145, 112.639044
+AJG,Jalan Raden Tumenggung Suryo No.4,-7.966599, 112.638819
+AJG,Jalan Raden Tumenggung Suryo No.4,-7.967014, 112.638666
+AJG,Jalan Hamid Rusdi No.19,-7.967269, 112.639087
+AJG,Jalan Hamid Rusdi No.19,-7.967452, 112.639401
+AJG,Jalan Hamid Rusdi No.21,-7.967630, 112.639790
+AJG,Jalan Hamid Rusdi No.6,-7.967784, 112.640342
+AJG,Jalan Hamid Rusdi No.37,-7.967904, 112.640916
+AJG,Jalan Hamid Rusdi No.47,-7.968084, 112.641456
+AJG,Jalan Hamid Rusdi No.53,-7.968345, 112.641930
+AJG,Jalan Hamid Rusdi No.75-87,-7.968722, 112.642236
+AJG,Jalan Hamid Rusdi No.87,-7.969152, 112.642507
+AJG,Jalan Hamid Rusdi No.93,-7.969564, 112.642730
+AJG,Jalan Hamid Rusdi No.2,-7.969989, 112.642883
+AJG,Jalan Hamid Rusdi No.12,-7.970438, 112.643076
+AJG,Jalan Hamid Rusdi No.127a,-7.970841, 112.643425
+AJG,Jalan Hamid Rusdi No.101G,-7.971266, 112.643833
+AJG,Jalan Hamid Rusdi No.101G,-7.971545, 112.644158
+AJG,Jalan Hamid Rusdi No.4,-7.971874, 112.644536
+AJG,Jalan Hamid Rusdi No.10,-7.972217, 112.644946
+AJG,Jalan Hamid Rusdi No.4-9,-7.972549, 112.645424
+AJG,Jalan Hamid Rusdi No.9,-7.972748, 112.645732
+AJG,Jalan Hamid Rusdi No.9,-7.972995, 112.646108
+AJG,Jalan Hamid Rusdi Timur No.317,-7.973205, 112.646459
+AJG,Jalan Terusan Kesatrian,-7.973563, 112.646183
+AJG,Jalan Terusan Kesatrian,-7.973856, 112.645941
+AJG,Jalan Terusan Kesatrian,-7.974259, 112.645558
+AJG,Jalan Terusan Kesatrian,-7.974714, 112.645139
+AJG,Jalan Terusan Kesatrian,-7.975022, 112.644876
+AJG,Jalan Terusan Kesatrian,-7.975476, 112.644482
+AJG,Jalan Urip Sumoharjo No.40-49,-7.976926, 112.642913
+AJG,Jalan Urip Sumoharjo No.53,-7.976469, 112.642390
+AJG,Jalan Urip Sumoharjo No.38,-7.975972, 112.641795
+AJG,Jalan Urip Sumoharjo No.32,-7.975515, 112.641251
+AJG,Jalan Urip Sumoharjo No.24-27,-7.975050, 112.640626
+AJG,Jalan Urip Sumoharjo No.24,-7.974665, 112.640119
+AJG,Jalan Urip Sumoharjo No.69,-7.974293, 112.639614
+AJG,Jalan Urip Sumoharjo No.69,-7.973972, 112.639137
+AJG,Jalan Urip Sumoharjo No.69,-7.973672, 112.638692
+AJG,Jalan Patimura No.1 C,-7.973425, 112.637630
+AJG,Jalan Trunojoyo No.33,-7.973441, 112.636675
+AJG,Jalan Trunojoyo No.27,-7.974482, 112.636701
+AJG,Jalan Trunojoyo No.19,-7.975529, 112.636755
+AJG,Jalan Trunojoyo No.81,-7.976719, 112.636793
+AJG,Jalan Trunojoyo No.10,-7.977494, 112.636825
+AJG,Jalan Trunojoyo No.10,-7.978376, 112.636889
+AJG,Jalan Trunojoyo No.23,-7.979699, 112.636991
+AJG,Jalan Trunojoyo,-7.980336, 112.637243
+AJG,Jalan Gatot Subroto,-7.981091, 112.637876
+AJG,Jalan Gatot Subroto No.2,-7.982137, 112.637458
+AJG,Jalan Gatot Subroto No.2,-7.983046, 112.637082
+AJG,Jalan Ir. Haji Juanda No.1A,-7.983609, 112.637479
+AJG,Jalan Ir. Haji Juanda No.6-16,-7.984209, 112.638096
+AJG,Jalan Ir. Haji Juanda No.22,-7.984979, 112.639024
+AJG,Jalan Ir. Haji Juanda No.25,-7.985234, 112.639341
+AJG,Jalan Ir. Haji Juanda No.32,-7.986122, 112.639652
+AJG,Jalan Ir. Haji Juanda No.6 A,-7.987104, 112.639325
+AJG,Jalan Ir. Haji Juanda No.6 A,-7.987875, 112.639115
+AJG,Jalan Ir. Haji Juanda No.6 A,-7.988836, 112.638842
+AJG,Jalan Zaenal Zakse No.72,-7.988347, 112.638338
+AJG,Jalan Zaenal Zakse No.45,-7.987907, 112.637533
+AJG,Jalan Zaenal Zakse No.22,-7.987508, 112.636578
+AJG,Jalan Zaenal Zakse No.2-10,-7.987285, 112.636095
+AJG,Jalan R.E. Martadinata No.26,-7.987115, 112.635704
+AJG,Jalan R.E. Martadinata No.3,-7.987806, 112.635462
+AJG,Jalan Laksamana Martadinata No.48,-7.988544, 112.635162
+AJG,Jalan Kyai Tamin No.125,-7.989261, 112.634867
+AJG,Jalan Kyai Tamin No.37,-7.988889, 112.634014
+AJG,Jalan Kyai Tamin No.68,-7.988480, 112.632995
+AJG,Jalan Professor Moch Yamin,-7.988220, 112.632362
+AJG,Jalan Professor Moch Yamin,-7.989017, 112.632121
+AJG,Jalan Professor Moch Yamin,-7.989691, 112.631912
+AJG,Jalan Professor Moch Yamin,-7.990658, 112.631542
+AJG,Jalan Professor Moch Yamin,-7.991577, 112.631209
+AJG,Jalan Sartono S.h No.2 A,-7.992390, 112.631086
+AJG,Jalan Peltu Sujono No.2B,-7.992889, 112.631408
+AJG,Jalan Peltu Sujono No.5,-7.993702, 112.631054
+AJG,Jalan Peltu Sujono No.8,-7.994611, 112.630657
+AJG,Jalan Peltu Sujono No.8,-7.995360, 112.630292
+AJG,Jalan Peltu Sujono No.12,-7.996210, 112.629922
+AJG,Jalan Susanto No.14,-7.996714, 112.629697
+AJG,Jalan Susanto No.14,-7.996470, 112.629090
+AJG,Jalan Susanto No.14,-7.996167, 112.628356
+AJG,Jalan Niaga No.3,-7.996890, 112.627975
+AJG,Jalan Niaga No.3,-7.997596, 112.627631
+AJG,Jalan Niaga No.3,-7.998366, 112.627288
+AJG,Jalan Niaga,-7.999285, 112.626907
+AJG,Jalan Niaga,-7.999514, 112.626623
+AJG,Jalan Sonokeling No.29,-8.000072, 112.626628
+AJG,Jalan Sonokeling No.41,-8.000943, 112.627047
+AJG,Jalan Sonokeling No.41,-8.001671, 112.627374
+AJG,Jalan Sonokeling No.41,-8.002340, 112.627444
+AJG,Jalan Janti Barat No.13,-8.002728, 112.627234
+AJG,Jalan Janti Barat No.13,-8.002776, 112.626381
+AJG,Jalan Janti Barat No.13,-8.002802, 112.625464
+AJG,Jalan Janti Barat No.13,-8.002717, 112.624477
+AJG,Jalan Janti Barat No.13,-8.002717, 112.624477
+AJG,Jalan Janti Barat No.20,-8.001698, 112.622418
+AJG,Jalan Janti Barat No.57,-8.001337, 112.621077
+AJG,Jalan Janti Barat No.22,-8.001039, 112.620127
+AJG,Jalan Janti Barat No.27,-8.000715, 112.619049
+AJG,Jalan Kolonel Slamet Riyadi No.88,-8.000784, 112.618011
+AJG,Jalan Kolonel Slamet Riyadi No.88,-8.001300, 112.617839
+AJG,Jalan Kolonel Slamet Riyadi No.88,-8.001770, 112.617780
+AJG,Jalan Kolonel Slamet Riyadi No.88,-8.002163, 112.617746
+AJG,Jalan Kolonel Slamet Riyadi No.88,-8.002540, 112.617740
+AJG,Jalan Kolonel Slamet Riyadi No.88,-8.002822, 112.617743
+AJG,Jalan Kolonel Slamet Riyadi,-8.003329, 112.617823
+AJG,Jalan Kolonel Slamet Riyadi,-8.003640, 112.617874
+AJG,Jalan Kolonel Slamet Riyadi,-8.004102, 112.617949
+AJG,Jalan Kolonel Slamet Riyadi,-8.004625, 112.618081
+AJG,Jalan Kolonel Slamet Riyadi,-8.004984, 112.618191
+AJG,Jalan Kolonel Slamet Riyadi,-8.005409, 112.618309
+AJG,Jalan Sudanco Supriadi No.169,-8.005985, 112.618497
+AJG,Jalan Sudanco Supriadi No.169,-8.006474, 112.618668
+AJG,Jalan Sudanco Supriadi No.169,-8.006811, 112.618781
+AJG,Jalan Sudanco Supriadi No.169,-8.007417, 112.618990
+AJG,Jalan Nasional 23 No.169,-8.007929, 112.619164
+AJG,Jalan Nasional 23 No.220,-8.008373, 112.619317
+AJG,Jalan Sudanco Supriadi No.220,-8.008774, 112.619476
+AJG,Jalan Sudanco Supriadi No.220,-8.009124, 112.619599
+AJG,Jalan Sudanco Supriadi No.220,-8.009456, 112.619701
+AJG,Jalan Sudanco Supriadi No.225,-8.010049, 112.619875
+AJG,Jalan Sudanco Supriadi No.225,-8.010447, 112.620031
+AJG,Jalan Sudanco Supriadi No.3,-8.011470, 112.620248
+AJG,Jalan Sudanco Supriadi No.70,-8.012163, 112.620369
+AJG,Jalan Sudanco Supriadi No.74,-8.012827, 112.620409
+AJG,Jalan Raya Kepuh No.18,-8.013456, 112.620396
+AJG,Jalan Raya Kepuh No.18,-8.014152, 112.620363
+AJG,Jalan Sudanco Supriadi,-8.014845, 112.620304
+AJG,Jalan Kebon Sari No.4,-8.015339, 112.620240
+AJG,Jalan Sudanco Supriadi No.7,-8.015881, 112.620181
+AJG,Jalan Sudanco Supriadi No.14a,-8.016407, 112.620125
+AJG,Jalan Kebon Sari No.53,-8.017045, 112.620047
+AJG,Jalan Kebon Sari No.2,-8.017658, 112.619950
+AJG,Jalan Kebon Sari No.2 - A,-8.018112, 112.619835
+AJG,Jalan Sudanco Supriadi No.8,-8.018667, 112.619653
+AJG,Jalan Sudanco Supriadi No.8,-8.019281, 112.619414
+AJG,Jalan Kebon Sari No.174,-8.019666, 112.619264
+AJG,Jalan Sudanco Supriadi No.178,-8.020173, 112.619060
+AJG,Jalan Apida Satsui Tubun No.8a,-8.020386, 112.619599
+AJG,Jalan Apida Satsui Tubun No.8a,-8.020585, 112.620125
+AJG,Jalan Apida Satsui Tubun No.25,-8.020776, 112.620650
+AJG,Jalan Apida Satsui Tubun No.29,-8.020957, 112.621125
+AJG,Jalan Apida Satsui Tubun No.39,-8.021148, 112.621664
+AJG,Jalan Apida Satsui Tubun No.20,-8.021403, 112.622356
+AJG,Jalan Apida Satsui Tubun No.22,-8.021674, 112.623097
+AJG,Jalan Apida Satsui Tubun No.28,-8.021905, 112.623789
+AJG,Jalan Apida Satsui Tubun No.32,-8.022038, 112.624368
+AJG,Jalan Apida Satsui Tubun No.28a,-8.022211, 112.625022
+AJG,Jalan Apida Satsui Tubun No.28a,-8.022373, 112.625698
+AJG,Jalan Apida Satsui Tubun No.38,-8.022532, 112.626355
+AJG,Jalan Apida Satsui Tubun No.38,-8.022683, 112.627015
+AJG,Jalan Kolonel Sugiono No.7,-8.022808, 112.627597
+AJG,Jalan Kolonel Sugiono No.7,-8.022532, 112.627621
+AJG,Jalan Kolonel Sugiono No.7,-8.022330, 112.627632
+AJG,Terminal Gadang,-8.022349, 112.627849

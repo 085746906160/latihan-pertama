@@ -1,0 +1,252 @@
+PBB, Jalan Polowijen II, -7.927696, 112.646438
+PBB, Jalan Polowijen II, -7.927546, 112.645797
+PBB, Jalan Cakalang Permai, -7.927355, 112.645290
+PBB, Jalan Cakalang Permai No.434a, -7.927257, 112.644926
+PBB, Jalan Cakalang Permai No.434a, -7.927067, 112.644394
+PBB, Jalan Cakalang Permai No.434a, -7.927029, 112.644242
+PBB, Jalan Cakalang Permai No.434a, -7.927481, 112.644102
+PBB, Malang, -7.927805, 112.644000
+PBB, Malang, -7.928146, 112.643906
+PBB, Malang, -7.928562, 112.643695
+PBB, Jalan Cakalang No.16, -7.929299, 112.643448
+PBB, Jalan Cakalang Kav.Auri, -7.929778, 112.643316
+PBB, Jalan Cakalang No.172A, -7.929590, 112.642756
+PBB, Jalan Cakalang No.176A, -7.929429, 112.642335
+PBB, Jalan Cakalang No.219, -7.929054, 112.641813
+PBB, Gang Baru, -7.928892, 112.641625
+PBB, Jalan Cakalang No.219, -7.928753, 112.641427
+PBB, Jalan Cakalang No.237, -7.928612, 112.641257
+PBB, Jalan Cakalang No.237, -7.928146, 112.640812
+PBB, Jalan Cakalang No.237, -7.927936, 112.640595
+PBB, Jalan Cakalang No.242, -7.927680, 112.640314
+PBB, LANGGAR WAKOF ROUDHOTUTTOYYIBIN, -7.927336, 112.640516
+PBB, Jalan Cakalang No.242, -7.927260, 112.640508
+PBB, Jalan Cakalang No.262, -7.926988, 112.640155
+PBB, Jalan Cakalang No.262, -7.926807, 112.639904
+PBB, Jalan Cakalang No.299, -7.926610, 112.639636
+PBB, Jalan Cakalang No.299, -7.926471, 112.639447
+PBB, Jalan Cakalang No.274A, -7.926339, 112.639264
+PBB, Jalan Cakalang No.315, -7.926136, 112.639000
+PBB, Jalan Cakalang No.315, -7.926014, 112.638833
+PBB, Jalan Cakalang No.315, -7.925915, 112.638704
+PBB, Jalan Cakalang No.315, -7.925753, 112.63847
+PBB, Jalan Cakalang No.286b, -7.925612, 112.638293
+PBB, Jalan Cakalang No.286b, -7.925372, 112.638008
+PBB, Jalan Ikan Tombro Barat No.296, -7.925273, 112.637908
+PBB, Jalan Ikan Tombro Barat No.296, -7.924979, 112.637549
+PBB, Jalan Ikan Tombro Barat No.296, -7.924789, 112.637271
+PBB, Jalan Ikan Tombro Barat No.296, -7.924699, 112.637100
+PBB, Jalan Ikan Tombro Barat No.40, -7.924477, 112.636585
+PBB, Jalan Ikan Tombro Barat No.40, -7.924311, 112.636360
+PBB, Jalan Ikan Tombro Barat No.40, -7.924128, 112.636131
+PBB, Jalan Ikan Tombro Barat No.40, -7.923909, 112.635844
+PBB, Jalan Ikan Tombro Barat No.39, -7.923797, 112.635662
+PBB, Jalan Ikan Tombro Barat No.13, -7.923672, 112.635423
+PBB, Jalan Ikan Tombro No.45, -7.923864, 112.635323
+PBB, Jalan Ikan Tombro No.31, -7.924139, 112.635171
+PBB, Jalan Ikan Tombro No.31, -7.924462, 112.634980
+PBB, Jalan Ikan Tombro Tengah Sawah, -7.924767, 112.634613
+PBB, Jalan Ikan Tombro No.2-25, -7.925024, 112.634276
+PBB, Jalan Ikan Tombro No.25, -7.925273, 112.633994
+PBB, Jalan Ikan Tombro No.25, -7.925528, 112.633699
+PBB, Jalan Ikan Tombro No.20, -7.925814, 112.633375
+PBB, Jalan Ikan Tombro No.20, -7.926079, 112.633177
+PBB, Jalan Ikan Tombro No.20, -7.926230, 112.633116
+PBB, Jalan Ikan Tombro No.20, -7.926373, 112.633129
+PBB, Jalan Ikan Tombro No.20, -7.926506, 112.633092
+PBB, Jalan Ikan Tombro No.20, -7.926717, 112.632997
+PBB, Jalan Ikan Tombro No.20, -7.927005, 112.632855
+PBB, Jalan Ikan Tombro No.20, -7.927322, 112.632692
+PBB, Jalan Ikan Tombro No.20, -7.927686, 112.632491
+PBB, Jalan Ikan Tombro No.20, -7.928036, 112.632345
+PBB, Jalan Ikan Tombro No.20, -7.928315, 112.632284
+PBB, Jalan Ikan Tombro, -7.928585, 112.632212
+PBB, Jalan Ikan Piranha No.108, -7.928632, 112.632482
+PBB, Jalan Ikan Piranha No.108, -7.928689, 112.632650
+PBB, Jalan Ters.Piranha Atas, -7.928746, 112.632743
+PBB, Jalan Ikan Piranha No.108, -7.928923, 112.632806
+PBB, Jalan Ikan Piranha No.108, -7.929289, 112.632904
+PBB, Jalan Ikan Piranha No.108, -7.929383, 112.632967
+PBB, Jalan Ikan Piranha No.53, -7.929526, 112.633453
+PBB, Jalan Ikan Piranha No.53, -7.929598, 112.633720
+PBB, Jalan Ikan Cumi-Cumi No.2a, -7.929763, 112.634077
+PBB, Jalan Ikan Piranha No.31, -7.929985, 112.634485
+PBB, Jalan Kepiting, -7.930231, 112.634913
+PBB, Jalan Ikan Piranha No.302, -7.930398, 112.635299
+PBB, Jalan Ikan Piranha No.302, -7.930473, 112.635514
+PBB, Jalan Ikan Piranha No.302, -7.930564, 112.635775
+PBB, Piranha Residence, Jalan Ikan Piranha, -7.930616, 112.635896
+PBB, Jalan Ikan Piranha No.288-298, -7.930820, 112.636278
+PBB, Jalan Ikan Piranha No.282, -7.931074, 112.636778
+PBB, Jalan Ikan Piranha No.219, -7.931283, 112.637197
+PBB, Jalan Ikan Piranha No.191, -7.931405, 112.637423
+PBB, Jalan Ikan Piranha No.189, -7.931568, 112.637683
+PBB, Jalan Ikan Piranha No.200, -7.931729, 112.638029
+PBB, Jalan Ikan Piranha No.200, -7.931866, 112.638267
+PBB, Jalan Ikan Piranha No.179, -7.931981, 112.638459
+PBB, Jalan Ikan Piranha No.179, -7.932289, 112.638268
+PBB, Jalan Piranha Atas Selatan, -7.932619, 112.638062
+PBB, Malang, -7.932831, 112.637925
+PBB, Malang, -7.933027, 112.637801
+PBB, Malang, -7.933173, 112.637558
+PBB, Malang, -7.933240, 112.637475
+PBB, Malang, -7.933407, 112.637365
+PBB, Jalan Ikan Lodan, -7.933719, 112.637166
+PBB, Jalan Ikan Nus II No.8, -7.933901, 112.637047
+PBB, Jalan Ikan Nus I No.7, -7.934107, 112.636913
+PBB, Jalan Ikan Nus Timur No.9, -7.934286, 112.637201
+PBB, Jalan Ikan Nus Timur No.12, -7.934284, 112.637211
+PBB, Jalan Ikan Paus VI No.18, -7.934468, 112.637546
+PBB, Jalan Ikan Paus VI No.15, -7.934772, 112.637401
+PBB, Jalan Ikan Paus VI No.5-11, -7.935184, 112.637196
+PBB, Jalan Ikan Paus VI No.5, -7.935712, 112.636929
+PBB, Jalan Ikan Paus V No.12, -7.935852, 112.637197
+PBB, Jalan Ikan Paus No.11, -7.936009, 112.637483
+PBB, Jalan Ikan Paus III No.8, -7.936149, 112.637790
+PBB, Jalan Ikan Paus II No.8, -7.936312, 112.638112
+PBB, Jalan Simpang Borobudur No.67, -7.936487, 112.638453
+PBB, Jalan Simpang Borobudur No.67, -7.936686, 112.638867
+PBB, Jalan Simpang Borobudur No.67, -7.936790, 112.639335
+PBB, Jalan Simpang Borobudur, -7.937015, 112.639814
+PBB, Malang. -7.937335, 112.640441
+PBB, Malang. -7.937655, 112.641143
+PBB, Malang, -7.937939, 112.641029
+PBB, Malang, -7.938213, 112.641508
+PBB, Malang, -7.938416, 112.641457
+PBB, Malang, -7.938573, 112.641800
+PBB, Malang, -7.938632, 112.641792
+PBB, Malang, -7.938794, 112.642041
+PBB, Malang, -7.938988, 112.642351
+PBB, Jalan Raya Malang - Surabaya No.81, -7.939075, 112.642475
+PBB, Jalan A. Yani No.55, -7.939235, 112.642551
+PBB, Jalan A. Yani No.55, -7.939362, 112.642762
+PBB, Jalan A. Yani No.55, -7.939569, 112.643176
+PBB, Jalan Raya Malang - Surabaya No.81, -7.939134, 112.643392
+PBB, Jalan Raya Malang - Surabaya No.81, -7.938648, 112.643629
+PBB, Jalan Raya Malang - Surabaya No.81, -7.938683, 112.643716
+PBB, Soe Dealer, -7.938933, 112.643590
+PBB, Gang Perusahaan, -7.939188, 112.643479
+PBB, Jalan Raya Malang - Surabaya No.49, -7.939375, 112.643384
+PBB, Jalan A. Yani No.55, -7.939661, 112.643248
+PBB, Jalan A. Yani No.55, -7.939840, 112.643161
+PBB, Jalan Achmad Yani Gang II, -7.940066, 112.643049
+PBB, Jalan A. Yani No.78, -7.940240, 112.642965
+PBB, Jalan Raya Malang - Surabaya No.66, -7.940443, 112.642870
+PBB, Jalan Raya Malang - Surabaya No.66, -7.940714, 112.642743
+PBB, Jalan Laksda Adi Sucipto No.5, -7.940838, 112.642981
+PBB, Jalan Laksda Adi Sucipto No.5, -7.940956, 112.643200
+PBB, Jalan Laksda Adi Sucipto No.22a, -7.941070, 112.643403
+PBB, Jalan Laksda Adi Sucipto No.22a, -7.941171, 112.643569
+PBB, Jalan Laksda Adi Sucipto No.22a, -7.941278, 112.643751
+PBB, Jalan Laksda Adi Sucipto Gang 1, -7.941370, 112.643930
+PBB, Jalan Laksda Adi Sucipto No.22a, -7.941456, 112.644077
+PBB, Jalan Laksda Adi Sucipto No.22a, -7.941577, 112.644281
+PBB, Jalan Laksda Adi Sucipto No.36, -7.941705, 112.644545
+PBB, Jalan Laksda Adi Sucipto No.36, -7.941845, 112.644791
+PBB, Jalan Laksda Adi Sucipto No.36, -7.941983, 112.645027
+PBB, Jalan Laksda Adi Sucipto No.36, -7.942116, 112.645219
+PBB, Jalan Laksda Adi Sucipto No.74, -7.942288, 112.645484
+PBB, Jalan Laksda Adi Sucipto No.74, -7.942436, 112.645750
+PBB, Jalan Laksda Adi Sucipto No.74, -7.942567, 112.645959
+PBB, Jalan Laksda Adi Sucipto No.74, -7.942667, 112.646105
+PBB, Jalan Laksda Adi Sucipto No.74, -7.942775, 112.646290
+PBB, Jalan Laksda Adi Sucipto No.74, -7.942952, 112.646624
+PBB, Jalan Laksda Adi Sucipto No.74, -7.943067, 112.646864
+PBB, Jalan Laksda Adi Sucipto No.140, -7.943286, 112.647277
+PBB, Jalan Laksda Adi Sucipto No.140, -7.943531, 112.647751
+PBB, Jalan Letnan Jenderal Sunandar Priyo Sudarmo No.20D, -7.943749, 112.648213
+PBB, Jalan Laksda Adi Sucipto No.161, -7.944002, 112.648776
+PBB, Jalan Laksda Adi Sucipto No.185, -7.944227, 112.649231
+PBB, Jalan Laksda Adi Sucipto No.172-180, -7.944670, 112.650073
+PBB, Jalan Laksda Adi Sucipto No.194, -7.945283, 112.651294
+PBB, Jalan Laksda Adi Sucipto No.239, -7.945501, 112.651723
+PBB, Jalan Laksda Adi Sucipto No.245 A, -7.945884, 112.652406
+PBB, Jalan Laksda Adi Sucipto No.226, -7.946263, 112.653127
+PBB, Jalan Laksda Adi Sucipto No.226, -7.946609, 112.653783
+PBB, Jalan Batubara No.9, -7.946827, 112.654136
+PBB, Jalan Laksda Adi Sucipto No.275, -7.947281, 112.655046
+PBB, Jalan Laksda Adi Sucipto No.346, -7.947695, 112.655812
+PBB, Jalan Laksda Adi Sucipto No.346, -7.948055, 112.656704
+PBB, Jalan Laksda Adi Sucipto No.346, -7.948262, 112.657671
+PBB, Jalan Laksda Adi Sucipto No.346, -7.948487, 112.658521
+PBB, Jalan Teluk Grajakan, -7.948683, 112.659146
+PBB, Jalan Laksda Adi Sucipto No.22, -7.948927, 112.659818
+PBB, Jalan Simpang L.A. Sucipto No.26, -7.949077, 112.660186
+PBB, Jalan Simpang L.A. Sucipto No.67. -7.949674, 112.659973
+PBB, Jalan Simpang L.A. Sucipto No.17, -7.950095, 112.659776
+PBB, Jalan Simpang L.A. Sucipto No.17, -7.950715, 112.659499
+PBB, Jalan Simpang L.A. Sucipto No.17, -7.951218, 112.659241
+PBB, Jalan Simpang L.A. Sucipto No.17, -7.951211, 112.659226
+PBB, Jalan Simpang Sulfat Utara No.24, -7.951542, 112.659090
+PBB, Jalan Simpang Sulfat Utara No.24, -7.951996, 112.658881
+PBB, Jalan Simpang Sulfat Utara No.24, -7.952526, 112.658642
+PBB, Jalan Simpang Sulfat Utara No.24, -7.952954, 112.658460
+PBB, Jalan Simpang Sulfat Utara No.1, -7.953292, 112.658308
+PBB, Jalan Simpang Sulfat Utara No.1, -7.953852, 112.658020
+PBB, Jalan Simpang Sulfat Utara No.14, -7.954528, 112.657709
+PBB, Jalan Simpang Sulfat Utara No.14, -7.955152, 112.657390
+PBB, Jalan Simpang Sulfat Utara No.49, -7.955873, 112.657064
+PBB, Jalan Simpang Sulfat Utara No.49, -7.956358, 112.656825
+PBB, kolam renang barracuda's, Jalan Simpang Sulfat Utara, -7.956699, 112.656711
+PBB, Jalan Simpang Sulfat Utara No.47, -7.957427, 112.656336
+PBB, Jalan Simpang Sulfat Utara XI, -7.957854, 112.656097
+PBB, Jalan Simpang Sulfat Utara No.55, -7.958407, 112.655842
+PBB, Jalan Simpang Sulfat Utara No.63, -7.958647, 112.655720
+PBB, Jalan Simpang Sulfat Utara X, -7.959064, 112.655545
+PBB, Jalan Simpang Sulfat Utara No.66, -7.959557, 112.655414
+PBB, Jalan Simpang Sulfat Utara No.66, -7.960040, 112.655414
+PBB, Jalan Simpang Sulfat Utara No.33, -7.960599, 112.655497
+PBB, Jalan Simpang Sulfat Utara No.33, -7.961101, 112.655539
+PBB, Jalan Simpang Sulfat Utara No.30, -7.961499, 112.655510
+PBB, Jalan Simpang Sulfat Utara No.8a, -7.962346, 112.655162
+PBB, Jalan Simpang Sulfat Utara No.8a, -7.962678, 112.654980
+PBB, Jalan Simpang Sulfat Utara No.8a, -7.963047, 112.654837
+PBB, Jalan Simpang Sulfat Selatan No.2B, -7.963508, 112.654598
+PBB, Jalan Simpang Sulfat Selatan No.2, -7.964020, 112.654333
+PBB, Jalan Simpang Sulfat Selatan No.2, -7.964020, 112.654333
+PBB, Jalan Simpang Sulfat Selatan No.5, -7.965075, 112.653839
+PBB, Jalan Simpang Sulfat Selatan No.5, -7.965331, 112.653719
+PBB, Jalan Simpang Sulfat Selatan No.5, -7.965622, 112.653610
+PBB, Jalan Simpang Sulfat Selatan No.5, -7.965991, 112.653446
+PBB, Jalan Simpang Sulfat Selatan No.18A, -7.966307, 112.653319
+PBB, Jalan Simpang Sulfat Selatan No.18A, -7.966637, 112.653167
+PBB, Jalan Simpang Sulfat Selatan No.15, -7.966974, 112.653049
+PBB, Jalan Simpang Sulfat Selatan No.6, -7.967381, 112.652888
+PBB, Jalan Simpang Sulfat Selatan No.220A, -7.967587, 112.652784
+PBB, Jalan Warinoi, -7.967945, 112.652725
+PBB, Jalan Warinoi. -7.968316, 112.652671
+PBB, Jalan Warinoi No.118. -7.968676, 112.652575
+PBB, Jalan Warinoi No.118, -7.969046, 112.652473
+PBB, Jalan Warinoi No.118, -7.969289, 112.652426
+PBB, Jalan Warinoi No.118, -7.969446, 112.652349
+PBB, Jalan Warinoi No.118, -7.969744, 112.652252
+PBB, Jalan Warinoi No.107, -7.970036, 112.652107
+PBB, Jalan Warinoi No.107, -7.970194, 112.652032
+PBB, Jalan Warinoi No.106, -7.970406, 112.651944
+PBB, Jalan Warinoi No.106, -7.970671, 112.651824
+PBB, Jalan Sulfat Erfina Residences, -7.970621, 112.651637
+PBB, Jalan Warinoi VIII, -7.970504, 112.651361
+PBB, Jalan Warinoi No.105, -7.970411, 112.651116
+PBB, Jalan Warinoi No.105, -7.970334, 112.650935
+PBB, Jalan Warinoi No.105, -7.970197, 112.650584
+PBB, Jalan Warinoi No.105, -7.970197, 112.650584
+PBB, Jalan Mambaramo, -7.969966, 112.647919
+PBB, Jalan Warinoi IV. -7.969831, 112.649674
+PBB, Jalan Warinoi No.20. -7.969635, 112.649187
+PBB, Jalan Warinoi III, -7.969509, 112.648876
+PBB, Jalan Warinoi No.20, -7.969378, 112.648551
+PBB, Jalan Mambaramo, -7.969284, 112.648269
+PBB, Jalan Mambaramo, -7.969458, 112.648197
+PBB, Jalan Mambaramo, -7.969677, 112.648111
+PBB, Jalan Mambaramo, -7.970130, 112.647811
+PBB, Jalan Mambaramo, -7.970492, 112.647619
+PBB, Jalan Mambaramo, -7.970883, 112.647481
+PBB, Jalan Sisingamangaraja No.278, -7.972174, 112.646999
+PBB, Jalan Sisingamangaraja No.278, -7.971863, 112.646683
+PBB, Jalan Sisingamangaraja No.278, -7.971615, 112.646473
+PBB, Jalan Sisingamangaraja No.42, -7.971410, 112.646266
+PBB, Jalan Imam Bonjol No.38, -7.971770, 112.646098
+PBB, Jalan Sultan Hadiwijaya, -7.972101, 112.645917
+PBB, Jalan Raden Patah, -7.972375, 112.645773
+PBB, Jalan Hamid Rusdi No.9, -7.972673, 112.645622
+PBB, Pasar bunul rejo Malang, -7.972570, 112.646165

@@ -1,0 +1,98 @@
+MKS,SUB Terminal Mulyorejo,Jalan Mulyorejo,-7.990392, 112.599427
+MKS,Jalan Raya Mulyorejo No.95,-7.990219, 112.600094
+MKS,Jalan Raya Mulyorejo No.95,-7.990732, 112.600485
+MKS,Jalan Raya Mulyorejo No.95,-7.991168, 112.600677
+MKS,Jalan Raya Mulyorejo No.95,-7.991594, 112.601160
+MKS,Jalan Raya Mulyorejo No.95,-7.991916, 112.601687
+MKS,Jalan Raya Mulyorejo No.95,-7.992153, 112.601867
+MKS,Jalan Raya Mulyorejo No.95,-7.992816, 112.601944
+MKS,Jalan Raya Tebo Selatan No.1A,-7.993475, 112.601916
+MKS,Jalan Raya Tebo Selatan No.252,-7.993966, 112.601814
+MKS,Jalan Raya Tebo Selatan No.252,-7.995116, 112.601530
+MKS,Jalan Raya Tebo Selatan No.252,-7.995725, 112.601209
+MKS,Jalan Raya Tebo Selatan No.252,-7.996231, 112.600936
+MKS,Jalan Raya Tebo Selatan No.252,-7.996687, 112.600719
+MKS,Jalan Raya Tebo Selatan No.252,-7.997175, 112.600451
+MKS,Jalan Raya Tebo Selatan No.252,-7.997714, 112.600177
+MKS,Jalan Raya Tebo Selatan No.252,-7.998290, 112.599982
+MKS,Jalan Raya Tebo Selatan No.252,-7.998700, 112.600130
+MKS,Jalan Raya Sidorahayu No.81,-7.998971, 112.599763
+MKS,Jalan Raya Sidorahayu No.81,-7.999252, 112.599367
+MKS,Jalan Pelabuhan Tanjung Perak No.365,-7.999397, 112.599727
+MKS,Jalan Pelabuhan Tanjung Perak No.365,-7.999539, 112.600323
+MKS,Jalan Pelabuhan Tanjung Perak No.365,-7.999662, 112.600799
+MKS,Jalan Pelabuhan Tanjung Perak No.61,-7.999716, 112.601032
+MKS,Jalan Pelabuhan Tanjung Perak No.61,-7.999777, 112.601208
+MKS,Jalan Pelabuhan Tanjung Perak No.61,-7.999866, 112.601419
+MKS,Jalan Pelabuhan Tanjung Perak No.61,-7.999956, 112.601617
+MKS,Jalan Pelabuhan Tanjung Perak No.61,-8.000038, 112.601798
+MKS,Jalan Pelabuhan Tanjung Perak No.192,-8.000131, 112.602011
+MKS,Jalan Pelabuhan Tanjung Perak No.192,-8.000206, 112.602201
+MKS,Jalan Pelabuhan Tanjung Perak No.192,-8.000287, 112.602402
+MKS,Jalan Pelabuhan Tanjung Perak No.52,-8.000395, 112.602664
+MKS,Jalan Pelabuhan Tanjung Perak No.52,-8.000429, 112.602756
+MKS,Jalan Pelabuhan Tanjung Perak No.52,-8.000516, 112.602976
+MKS,Jalan Pelabuhan Tanjung Perak No.52,-8.000598, 112.603200
+MKS,Jalan Pelabuhan Tanjung Perak No.52,-8.000652, 112.603346
+MKS,Jalan Pelabuhan Tanjung Perak No.52,-8.000696, 112.603470
+MKS,Jalan Pelabuhan Tanjung Perak No.32,-8.000775, 112.603658
+MKS,Jalan Pelabuhan Tanjung Perak No.16,-8.000853, 112.603849
+MKS,Jalan Pelabuhan Tanjung Perak No.32,-8.000883, 112.604113
+MKS,Jalan Pelabuhan Tanjung Perak No.9-32,-8.000811, 112.604337
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000756, 112.604552
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000742, 112.604826
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000750, 112.605077
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000756, 112.605274
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000802, 112.605489
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000848, 112.605697
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000904, 112.605870
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.000969, 112.606098
+MKS,Jalan Pelabuhan Tanjung Perak No.9A,-8.001047, 112.606368
+MKS,Jalan Kemantran 3 No.49,-8.001124, 112.606657
+MKS,Jalan Kemantran 3 No.49,-8.001199, 112.606870
+MKS,Jalan Kemantran 3 No.49,-8.001252, 112.606995
+MKS,Jalan Kemantran 3 No.49,-8.001348, 112.607202
+MKS,Jalan Kemantran 3 No.49,-8.001424, 112.607364
+MKS,Jalan Kemantran 3 No.49,-8.001554, 112.607584
+MKS,Jalan Kemantran 3 No.49,-8.001657, 112.607766
+MKS,Jalan Kemantran 3 No.49,-8.001791, 112.607977
+MKS,Jalan Kemantran 3 No.49,-8.001895, 112.608152
+MKS,Jalan Kemantran 3 No.49,-8.002031, 112.608369
+MKS,Jalan Abdul Jalil,-8.002090, 112.608520
+MKS,Jalan Kemantran 3 No.49,-8.002386, 112.608988
+MKS,Jalan Kemantran 3 No.49,-8.002668, 112.609594
+MKS,Jalan Kemantran 3 No.37,-8.002877, 112.610066
+MKS,Jalan Kemantran 3 No.37,-8.003074, 112.610452
+MKS,Jalan Kemantran 3 No.37,-8.003324, 112.611015
+MKS,Jalan Klayatan 3 No.22,-8.003552, 112.611573
+MKS,Jalan Kemantran 3 No.37,-8.003799, 112.612271
+MKS,Jalan Kemantran 3,-8.003958, 112.612644
+MKS,Jalan Kemantran 3,-8.004131, 112.613078
+MKS,Jalan Klayatan 3 No.5,-8.004317, 112.613521
+MKS,Jalan Klayatan 3 No.128,-8.004516, 112.613974
+MKS,Jalan Klayatan 3 No.128,-8.004662, 112.614274
+MKS,Jalan Klayatan 3 No.75,-8.004891, 112.614797
+MKS,Jalan Klayatan 3 No.75,-8.005119, 112.615293
+MKS,Jalan Klayatan 3 No.8,-8.005324, 112.615811
+MKS,Jalan Klayatan 3 No.7,-8.005536, 112.616259
+MKS,Jalan Klayatan 3 No.7,-8.005733, 112.616755
+MKS,Jalan Klayatan 3 No.6,-8.005855, 112.617283
+MKS,Jalan Klayatan 3 No.6,-8.005908, 112.617739
+MKS,Jalan Klayatan 3 No.6,-8.005940, 112.618404
+MKS,Jalan Sudanco Supriadi No.169,-8.005608, 112.618383
+MKS,Jalan Kolonel Slamet Riyadi,-8.005143, 112.618235
+MKS,Jalan Kolonel Slamet Riyadi,-8.004660, 112.618099
+MKS,Jalan Kolonel Slamet Riyadi,-8.004182, 112.617959
+MKS,Jalan Kolonel Slamet Riyadi,-8.003600, 112.617865
+MKS,Jalan Kolonel Slamet Riyadi No.88,-8.002994, 112.617777
+MKS,Jalan Kolonel Slamet Riyadi No.88,-8.002248, 112.617750
+MKS,Jalan Kolonel Slamet Riyadi No.88,-8.001496, 112.617806
+MKS,Jalan Kolonel Slamet Riyadi No.88,-8.000970, 112.617962
+MKS,Jalan Kolonel Slamet Riyadi No.88,-8.000442, 112.618144
+MKS,Jalan Sudanco Supriadi No.26,-7.999759, 112.618348
+MKS,Jalan Sudanco Supriadi No.80,-7.999087, 112.618589
+MKS,Jalan Kolonel Slamet Riyadi No.82,-7.998428, 112.618825
+MKS,Jalan Sudanco Supriadi No.70 B,-7.997767, 112.619021
+MKS,Jalan Sudanco Supriadi No.70,-7.997475, 112.619139
+MKS,Jalan Kolonel Slamet Riyadi No.60,-7.996973, 112.619322
+MKS,Pasar Sukun,Jalan Kolonel Slamet Riyadi,-7.997175, 112.619925

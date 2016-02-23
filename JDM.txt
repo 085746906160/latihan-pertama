@@ -1,0 +1,151 @@
+JDM,Jalan Perum Joyo Grand No.6,-7.942670, 112.594974
+JDM,Jalan Perum Joyo Grand No.6,-7.942752, 112.595275
+JDM,Jalan Perum Joyo Grand No.18,-7.942369, 112.595364
+JDM,Jalan Perum Joyo Grand No.18,-7.942256, 112.595110
+JDM,Jalan Perum Joyo Grand No.18,-7.941727, 112.595386
+JDM,Jalan Perum Joyo Grand No.18,-7.941412, 112.595533
+JDM,Jalan Perum Joyo Grand No.18,-7.941096, 112.595676
+JDM,Jalan Perum Joyo Grand No.18,-7.940688, 112.595848
+JDM,Jalan Kanjuruhan No.4,-7.940454, 112.595842
+JDM,Jalan Kanjuruhan No.4,-7.940041, 112.595982
+JDM,Jalan Kanjuruhan No.4,-7.939720, 112.596165
+JDM,Jalan Kanjuruhan No.4,-7.939857, 112.596589
+JDM,Jalan Kanjuruhan No.4,-7.939995, 112.596997
+JDM,Jalan Kanjuruhan No.4,-7.940155, 112.597312
+JDM,Jalan Kanjuruhan,-7.940321, 112.597678
+JDM,Jalan Kanjuruhan,-7.940085, 112.597953
+JDM,Jalan Kanjuruhan,-7.939818, 112.598127
+JDM,Jalan Kanjuruhan,-7.939617, 112.598363
+JDM,Jalan Kanjuruhan,-7.939265, 112.598764
+JDM,Jalan Kanjuruhan,-7.938935, 112.598993
+JDM,Jalan Tlogo Sari No.28,-7.938708, 112.599171
+JDM,Jalan Tlogo Joyo No.11,-7.938807, 112.599588
+JDM,Jalan Tlogo Sari No.652,-7.938899, 112.600001
+JDM,Jalan Tlogo Joyo No.648,-7.938965, 112.600488
+JDM,Jalan Tlogo Joyo No.37,-7.939000, 112.600864
+JDM,Jalan Tlogo Joyo No.38,-7.939059, 112.601260
+JDM,Jalan Tlogo Joyo No.38a,-7.939109, 112.601639
+JDM,Jalan Tlogo Indah No.6,-7.939135, 112.601940
+JDM,Jalan Tlogo Indah No.6,-7.938754, 112.601999
+JDM,Jalan Tlogo Indah No.6,-7.938328, 112.602055
+JDM,Jalan Tlogo Indah No.40a,-7.937503, 112.602280
+JDM,Jalan Tlogo Indah No.40a,-7.936782, 112.602294
+JDM,Jalan Tlogo Indah No.40a,-7.936545, 112.602819
+JDM,Jalan Tlogo Indah No.64,-7.936667, 112.603793
+JDM,Jalan Tlogo Indah No.10,-7.936694, 112.604123
+JDM,Jalan Tlogo Indah No.7-17,-7.936428, 112.604675
+JDM,Jalan Tlogo Indah No.17,-7.936187, 112.605052
+JDM,Jalan Tlogomas No.19,-7.935972, 112.605322
+JDM,Jalan M.T. Haryono No.204,-7.936261, 112.605522
+JDM,Jalan M.T. Haryono No.204,-7.936466, 112.605657
+JDM,Jalan M.T. Haryono No.193,-7.936779, 112.605887
+JDM,Jalan M.T. Haryono No.193,-7.936991, 112.606030
+JDM,Jalan M.T. Haryono No.193,-7.937357, 112.606285
+JDM,Jalan M.T. Haryono No.187,-7.937608, 112.606443
+JDM,Jalan M.T. Haryono No.187,-7.937918, 112.606656
+JDM,Jalan M.T. Haryono No.187,-7.938156, 112.606805
+JDM,Jalan M.T. Haryono No.171,-7.938414, 112.606991
+JDM,Jalan M.T. Haryono No.176-177,-7.938735, 112.607209
+JDM,Jalan M.T. Haryono No.170,-7.938989, 112.607381
+JDM,Jalan M.T. Haryono No.167,-7.939313, 112.607623
+JDM,Jalan M.T. Haryono No.8-121,-7.939630, 112.607868
+JDM,Jalan Mayjen Haryono Gang 10,-7.939892, 112.607508
+JDM,Jalan Mayjen Haryono Gang 10,-7.940113, 112.607101
+JDM,Jalan Mayjen Haryono Gang 10,-7.940123, 112.606659
+JDM,Jalan Mayjen Haryono Gang 10,-7.940138, 112.606198
+JDM,Jalan Joyo Raharjo No.127,-7.940412, 112.605965
+JDM,Jalan Joyo Raharjo No.127,-7.940591, 112.605928
+JDM,Jalan Joyo Raharjo No.127,-7.940933, 112.605825
+JDM,Jalan Joyo Raharjo No.127,-7.941300, 112.605702
+JDM,Jalan Joyo Raharjo No.127,-7.941767, 112.605545
+JDM,Jalan Joyo Raharjo No.127,-7.942180, 112.605408
+JDM,Jalan Joyo Raharjo No.127,-7.942529, 112.605319
+JDM,Jalan Joyo Raharjo No.127,-7.942841, 112.605235
+JDM,Jalan Joyo Raharjo No.127,-7.943239, 112.605117
+JDM,Jalan Joyo Raharjo No.127,-7.943632, 112.605032
+JDM,Jalan Joyo Raharjo,-7.943973, 112.604929
+JDM,Jalan Simp. Gajayana No.42,-7.944125, 112.605214
+JDM,Jalan Simp. Gajayana No.40,-7.944288, 112.605618
+JDM,Jalan Simp. Gajayana No.40,-7.944421, 112.605967
+JDM,Jalan Simp. Gajayana No.32,-7.944588, 112.606388
+JDM,Jalan Simp. Gajayana,-7.944722, 112.606755
+JDM,Jalan Simp. Gajayana No.610C,-7.944853, 112.607120
+JDM,Jalan Simp. Gajayana No.610C,-7.944977, 112.607504
+JDM,Jalan Simp. Gajayana No.610C,-7.945470, 112.607819
+JDM,Jalan Simp. Gajayana No.610C,-7.945886, 112.607914
+JDM,Jalan Simp. Gajayana No.610C,-7.946299, 112.607964
+JDM,Jalan Simp. Gajayana No.610C,-7.946726, 112.608356
+JDM,Jalan Simp. Gajayana No.610C,-7.946921, 112.608597
+JDM,Jalan Gajayana No.14 C,-7.947208, 112.608834
+JDM,Jalan Gajayana No.14 C,-7.947590, 112.608795
+JDM,Jalan Gajayana No.14 C,-7.948069, 112.608759
+JDM,Jalan Gajayana No.14 C,-7.948571, 112.608805
+JDM,Jalan Gajayana No.14 C,-7.949007, 112.608841
+JDM,Jalan Gajayana No.14 C,-7.949328, 112.608847
+JDM,Jalan Gajayana No.36,-7.949767, 112.608860
+JDM,Jalan Gajayana No.36,-7.950205, 112.608873
+JDM,Jalan Gajayana No.36,-7.950685, 112.608887
+JDM,Jalan Gajayana No.36,-7.951151, 112.608952
+JDM,Jalan Raya Sumbersari No.2,-7.951516, 112.609022
+JDM,Jalan Raya Sumbersari No.2,-7.951900, 112.609136
+JDM,Jalan Raya Sumbersari No.2,-7.952434, 112.609415
+JDM,Jalan Raya Sumbersari No.2,-7.952790, 112.609704
+JDM,Jalan Raya Sumbersari No.89,-7.953087, 112.609931
+JDM,Jalan Raya Sumbersari No.89,-7.953452, 112.610207
+JDM,Jalan Raya Sumbersari No.82,-7.953945, 112.610418
+JDM,Jalan Raya Sumbersari No.53,-7.954322, 112.610604
+JDM,Jalan Raya Sumbersari No.253a,-7.954749, 112.610937
+JDM,Jalan Raya Sumbersari No.290,-7.955174, 112.611331
+JDM,Jalan Raya Sumbersari No.290 b,-7.955376, 112.611518
+JDM,Jalan Raya Sumbersari No.292,-7.955732, 112.611875
+JDM,Jalan Raya Sumbersari No.292,-7.955888, 112.612026
+JDM,Jalan Raya Sumbersari No.305,-7.956507, 112.612604
+JDM,Jalan Bendungan Sutami No.317C,-7.956938, 112.612991
+JDM,Jalan Bendungan Sutami No.317C,-7.957299, 112.613305
+JDM,Jalan Bendungan Sutami No.19,-7.957854, 112.613560
+JDM,Jalan Bendungan Sutami No.19,-7.958359, 112.613557
+JDM,Jalan Bendungan Sutami No.3171,-7.958800, 112.613582
+JDM,Jalan Bendungan Sutami No.18,-7.959507, 112.613616
+JDM,Jalan Bendungan Sutami No.18D,-7.959895, 112.613641
+JDM,Jalan Bendungan Sutami No.15,-7.960428, 112.613657
+JDM,Jalan Bendungan Sutami No.55,-7.961082, 112.613611
+JDM,Jalan Bendungan Sutami No.55,-7.961706, 112.613410
+JDM,Jalan Bendungan Sutami No.7,-7.962346, 112.613375
+JDM,Jalan Bendungan Sutami No.7,-7.962920, 112.613455
+JDM,Jalan Bendungan Sutami No.7,-7.963347, 112.613488
+JDM,Jalan Bendungan Sutami No.7,-7.963831, 112.613520
+JDM,Jalan Galunggung No.114,-7.964129, 112.613531
+JDM,Jalan Galunggung,-7.964706, 112.613554
+JDM,Jalan Galunggung No.89,-7.965070, 112.613569
+JDM,Jalan Galunggung No.85-89,-7.965543, 112.613575
+JDM,Jalan Galunggung No.80-88,-7.966048, 112.613555
+JDM,Jalan Galunggung No.67c,-7.966613, 112.613546
+JDM,Jalan Galunggung No.53,-7.967209, 112.613535
+JDM,Jalan Galunggung No.53,-7.967692, 112.613483
+JDM,Jalan Galunggung No.53,-7.968036, 112.613458
+JDM,Jalan Galunggung No.39,-7.968632, 112.613415
+JDM,Jalan Galunggung No.39,-7.969166, 112.613404
+JDM,Jalan Galunggung No.30,-7.970704, 112.613401
+JDM,Jalan Galunggung No.2,-7.971662, 112.613242
+JDM,Jalan Galunggung No.2,-7.972469, 112.613208
+JDM,Jalan Galunggung No.2,-7.973067, 112.613139
+JDM,Jalan Raya Langsep No.1 D,-7.973837, 112.613033
+JDM,Jalan Raya Langsep No.5,-7.974508, 112.612906
+JDM,Jalan Raya Langsep No.11,-7.975701, 112.612694
+JDM,Jalan Raya Langsep No.11,-7.976545, 112.612585
+JDM,Jalan Raya Langsep No.21 A,-7.977532, 112.612599
+JDM,Jalan Raya Langsep No.25,-7.978404, 112.612996
+JDM,Jalan Raya Langsep No.35,-7.979100, 112.613524
+JDM,Jalan Raya Langsep No.50,-7.979824, 112.613984
+JDM,Jalan Raya Langsep No.41,-7.980785, 112.614466
+JDM,Jalan Raya Langsep No.70,-7.981959, 112.614715
+JDM,Jalan Raya Langsep,-7.982920, 112.614475
+JDM,Jalan Mergan Lori,-7.983648, 112.614309
+JDM,Jalan Mergan Lori No.24,-7.984595, 112.614651
+JDM,Jalan Mergan Lori No.615 A,-7.985167, 112.615526
+JDM,Jalan Mergan Lori No.40,-7.986069, 112.615851
+JDM,Jalan Mergan Lori No.40,-7.987356, 112.615996
+JDM,Jalan Mergan,-7.988499, 112.616370
+JDM,Jalan Mergan,-7.989567, 112.616988
+JDM,Jalan Mergan,-7.989355, 112.616877
+JDM,Jalan Mergan,-7.990714, 112.617689

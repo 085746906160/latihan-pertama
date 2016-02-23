@@ -1,0 +1,235 @@
+JPK,Jalan Perum Joyo Grand,-7.943687, 112.596097
+JPK,Jalan Perum Joyo Grand,-7.943171, 112.596317
+JPK,Jalan Perum Joyo Grand,-7.942664, 112.596491
+JPK,Jalan Joyo Taman Sari No.5,-7.942443, 112.596958
+JPK,Jalan Joyo Taman Sari No.5,-7.942178, 112.597275
+JPK,Jalan Joyo Taman Sari No.5,-7.941968, 112.597570
+JPK,Jalan Joyo Tamansari 1,-7.941819, 112.597918
+JPK,Jalan Joyo Tamansari 1,-7.942103, 112.598415
+JPK,Jalan Joyo Tamansari 1,-7.942369, 112.598873
+JPK,Jalan Joyo Tamansari 1,-7.942624, 112.599474
+JPK,Jalan Joyo Tamansari 1,-7.942419, 112.600032
+JPK,Jalan Joyo Utomo No.18-19,-7.941976, 112.600255
+JPK,Jalan Joyo Utomo No.1-15,-7.941729, 112.600786
+JPK,Jalan Simp. Gajayana,-7.941585, 112.601306
+JPK,Jalan Tlogo Indah No.533 A,-7.941271, 112.601397
+JPK,Jalan Tlogo Indah No.533 A,-7.940756, 112.601523
+JPK,Jalan Tlogo Indah No.631,-7.940187, 112.601684
+JPK,Jalan Tlogo Indah No.631 E,-7.939595, 112.601839
+JPK,Jalan Tlogo Indah No.6,-7.939079, 112.601944
+JPK,Jalan Tlogo Indah No.6,-7.938766, 112.602003
+JPK,Jalan Tlogo Agung No.26,-7.938107, 112.602150
+JPK,Jalan Tlogo Agung No.2,-7.938256, 112.602692
+JPK,Jalan Tlogo Agung No.2,-7.938585, 112.603202
+JPK,Jalan Tlogo Agung No.15,-7.938941, 112.603693
+JPK,Jalan Tlogo Agung No.15,-7.939512, 112.604175
+JPK,Jalan Mertojoyo Barat,-7.940123, 112.604186
+JPK,Jalan Mertojoyo Selatan No.1a,-7.940410, 112.604189
+JPK,Jalan Mertojoyo Selatan No.1a,-7.941056, 112.604041
+JPK,Jalan Mertojoyo Selatan No.1a,-7.941661, 112.603969
+JPK,Jalan Mertojoyo Selatan No.1a,-7.942389, 112.603955
+JPK,Jalan Mertojoyo No.1,-7.942950, 112.603939
+JPK,Jalan Mertojoyo No.1,-7.943393, 112.603883
+JPK,Jalan Simp. Gajayana No.71,-7.943648, 112.604318
+JPK,Jalan Simp. Gajayana No.75,-7.943730, 112.604441
+JPK,Jalan Simp. Gajayana No.42,-7.944035, 112.605003
+JPK,Jalan Simp. Gajayana No.42,-7.944166, 112.605279
+JPK,Jalan Simp. Gajayana No.40,-7.944438, 112.606013
+JPK,Jalan Simp. Gajayana No.610C,-7.944834, 112.607108
+JPK,Jalan Simp. Gajayana No.610C,-7.945158, 112.607679
+JPK,Jalan Simp. Gajayana No.610C,-7.945685, 112.607905
+JPK,Jalan Simp. Gajayana No.610C,-7.946242, 112.607947
+JPK,Jalan Simp. Gajayana No.610C,-7.946630, 112.608262
+JPK,Jalan Simp. Gajayana No.610C,-7.947011, 112.608706
+JPK,Jalan Gajayana No.14 C,-7.946668, 112.609010
+JPK,Jalan Gajayana No.14 C,-7.946235, 112.609170
+JPK,Jalan Gajayana,-7.945659, 112.609392
+JPK,Jalan Gajayana,-7.945115, 112.609564
+JPK,Jalan Gajayana,-7.944519, 112.609741
+JPK,Jalan Gajayana,-7.944191, 112.609868
+JPK,Jalan Gajayana,-7.943267, 112.610233
+JPK,Jalan M.T. Haryono No.331,-7.943595, 112.610637
+JPK,Jalan M.T. Haryono No.331,-7.944005, 112.610932
+JPK,Jalan M.T. Haryono No.331,-7.944752, 112.611482
+JPK,Jalan M.T. Haryono No.331,-7.945341, 112.611878
+JPK,Jalan M.T. Haryono,-7.946030, 112.612317
+JPK,Jalan M.T. Haryono No.72,-7.946654, 112.612751
+JPK,Jalan M.T. Haryono No.72,-7.947415, 112.613364
+JPK,Jalan M.T. Haryono No.72,-7.948039, 112.613774
+JPK,Jalan M.T. Haryono No.72,-7.948549, 112.614185
+JPK,Jalan M.T. Haryono No.72,-7.949238, 112.614793
+JPK,Jalan M.T. Haryono No.161,-7.949778, 112.615325
+JPK,Jalan Soekarno Hatta,-7.949289, 112.615764
+JPK,Jalan Soekarno Hatta,-7.948745, 112.616216
+JPK,Jalan Soekarno Hatta No.8B,-7.948121, 112.616679
+JPK,Jalan Soekarno Hatta No.8B,-7.947374, 112.617183
+JPK,Jalan Soekarno Hatta No.8B,-7.946750, 112.617621
+JPK,Jalan Soekarno Hatta No.37,-7.946237, 112.617966
+JPK,Jalan Soekarno Hatta No.11,-7.945572, 112.618449
+JPK,Jalan Soekarno Hatta No.15 D,-7.945018, 112.618929
+JPK,Jalan Soekarno Hatta No.21,-7.944570, 112.619301
+JPK,Jalan Bunga Coklat No.22,-7.944122, 112.618839
+JPK,Jalan Pisang Kipas No.52,-7.943819, 112.618449
+JPK,Jalan Pisang Kipas No.52-59,-7.943323, 112.617750
+JPK,Jalan Pisang Kipas No.10,-7.942906, 112.617054
+JPK,Jalan Pisang Kipas No.5-8,-7.942330, 112.616087
+JPK,Jalan Pisang Kipas No.9,-7.941724, 112.615044
+JPK,Jalan Pisang Kipas No.19,-7.941187, 112.614181
+JPK,Jalan Pisang Kipas No.69,-7.940863, 112.613510
+JPK,Jalan Pisang Kipas No.24,-7.940119, 112.613176
+JPK,Jalan Pisang Kipas No.24,-7.939605, 112.612769
+JPK,Jalan Pisang Kipas No.23,-7.938810, 112.611990
+JPK,Jalan Bunga Vinolia No.27,-7.938176, 112.611823
+JPK,Jalan Bunga Vinolia No.27,-7.937573, 112.611595
+JPK,Jalan Bunga Vinolia No.27,-7.936616, 112.611842
+JPK,Jalan Bunga Vinolia No.7a,-7.935426, 112.612512
+JPK,Jalan Simpang Candi Panggung No.45,-7.934539, 112.613183
+JPK,Jalan Simpang Candi Panggung No.45,-7.933508, 112.613247
+JPK,Jalan Akordeon No.99-212,-7.932493, 112.613467
+JPK,Jalan Akordeon No.85,-7.930947, 112.613934
+JPK,Jalan Akordeon No.46a,-7.929470, 112.614454
+JPK,Jalan Akordeon No.24 B,-7.928354, 112.615017
+JPK,Jalan Akordeon No.2,-7.926925, 112.615586
+JPK,Jalan Akordeon No.2,-7.926022, 112.616224
+JPK,Jalan Akordeon No.2,-7.925225, 112.616718
+JPK,Jalan Akordeon No.2,-7.924332, 112.617442
+JPK,Jalan Ikan Gurami No.35,-7.924274, 112.618086
+JPK,Jalan Ikan Gurami No.35,-7.924938, 112.618933
+JPK,Jalan Ikan Gurami No.17,-7.924943, 112.620366
+JPK,Jalan Ikan Gurami No.37,-7.925209, 112.621685
+JPK,Jalan Ikan Gurami No.8,-7.925591, 112.622914
+JPK,Jalan Ikan Gurami No.3a,-7.925953, 112.624110
+JPK,Jalan Ikan Gurami No.3a,-7.926234, 112.625526
+JPK,Jalan Ikan Gurami No.3a,-7.926760, 112.626454
+JPK,Jalan Ikan Gurami No.3a,-7.927510, 112.627323
+JPK,Jalan Ikan Gurami No.3a,-7.928174, 112.628166
+JPK,Jalan Ikan Kakap No.90,-7.928599, 112.629131
+JPK,Jalan Ikan Kakap No.2A,-7.928418, 112.630392
+JPK,Jalan Ikan Kakap No.124,-7.928477, 112.631690
+JPK,Tunjung Sekar, Tunjungsekar,-7.928833, 112.632774
+JPK,Jalan Ikan Piranha No.55,-7.929454, 112.633128
+JPK,Jalan Ikan Piranha No.70 B,-7.929784, 112.634131
+JPK,Jalan Ikan Piranha No.302,-7.930485, 112.635536
+JPK,Jalan Ikan Piranha No.282,-7.931037, 112.636738
+JPK,Jalan Ikan Piranha No.189,-7.931664, 112.637907
+JPK,Jalan Ikan Piranha No.172,-7.932212, 112.638905
+JPK,Jalan Ikan Piranha No.145,-7.932780, 112.639967
+JPK,Jalan Ikan Piranha No.82,-7.933481, 112.641158
+JPK,Jalan Ikan Piranha No.14,-7.934395, 112.642161
+JPK,Jalan Ikan Piranha No.56,-7.935394, 112.643073
+JPK,Jalan Ikan Piranha No.8,-7.936372, 112.644302
+JPK,Jalan Raya Malang - Surabaya No.112,-7.936685, 112.644726
+JPK,Jalan Raya Malang - Surabaya No.112,-7.937562, 112.644237
+JPK,Jalan Raya Malang - Surabaya No.81,-7.938561, 112.643781
+JPK,Jalan A. Yani No.55,-7.939459, 112.643347
+JPK,Jalan A. Yani No.78,-7.940160, 112.643004
+JPK,Jalan Ahmad. Yani No.30,-7.941228, 112.642510
+JPK,Jalan A. Yani No.26,-7.942089, 112.642113
+JPK,Jalan A. Yani No.18C,-7.943199, 112.641630
+JPK,Jalan A. Yani No.18,-7.944267, 112.641180
+JPK,Jalan Letjend S. Parman No.121,-7.945085, 112.640858
+JPK,Jalan Raya Malang - Surabaya No.108,-7.945225, 112.640837
+JPK,Jalan Letjend S. Parman No.76,-7.946421, 112.640435
+JPK,Jalan Letjend S. Parman No.76,-7.947281, 112.640215
+JPK,Jalan Letjend S. Parman No.82,-7.948163, 112.639990
+JPK,Jalan Letjend S. Parman No.72,-7.949428, 112.639684
+JPK,Jalan Letjend S. Parman No.58-D,-7.950448, 112.639491
+JPK,Jalan Letjend S. Parman No.52,-7.951478, 112.639271
+JPK,Jalan Letjend S. Parman No.36,-7.952902, 112.638944
+JPK,Jalan Letjend S. Parman No.36,-7.954076, 112.638708
+JPK,Jalan Raya Malang - Surabaya No.105,-7.955479, 112.638380
+JPK,Jalan Letjen Sutoyo No.144,-7.956595, 112.638155
+JPK,Jalan Letjen Sutoyo No.118A,-7.957795, 112.637871
+JPK,Jalan Letjen Sutoyo No.96,-7.959230, 112.637458
+JPK,Jalan Raya Malang - Surabaya,-7.960441, 112.637012
+JPK,Jalan Letjen Sutoyo No.48,-7.961801, 112.636374
+JPK,Jalan Letjen Sutoyo No.22,-7.963315, 112.635612
+JPK,Jalan Letjen Sutoyo No.22,-7.964250, 112.635167
+JPK,Jalan Jaksa Agung Suprapto No.4,-7.965430, 112.634556
+JPK,Jalan Jaksa Agung Suprapto No.42,-7.966513, 112.633874
+JPK,Jalan Jaksa Agung Suprapto No.63,-7.967528, 112.633300
+JPK,Jalan Jaksa Agung Suprapto No.22,-7.968389, 112.632855
+JPK,Jalan Jaksa Agung Suprapto No.10,-7.969239, 112.632506
+JPK,Jalan Jaksa Agung Suprapto No.10,-7.970200, 112.632072
+JPK,Jalan Jaksa Agung Suprapto No.23,-7.971374, 112.631568
+JPK,Jalan Jaksa Agung Suprapto No.19A,-7.972400, 112.631020
+JPK,Jalan Jaksa Agung Suprapto No.5,-7.973611, 112.630328
+JPK,Jalan Brigjend Slamet Riadi No.16,-7.974259, 112.629770
+JPK,Jalan Brigjend Slamet Riadi No.16,-7.973494, 112.629095
+JPK,Jalan Buring No.1A,-7.972719, 112.628547
+JPK,Jalan Buring No.4,-7.972527, 112.627694
+JPK,Jalan Buring No.29,-7.971645, 112.626702
+JPK,Jalan Muria No.16,-7.970918, 112.627067
+JPK,Jalan Cerme,-7.970360, 112.626048
+JPK,Jalan Cerme,-7.970223, 112.625766
+JPK,Jalan Merbabu No.14,-7.969341, 112.625760
+JPK,Jalan Malabar,-7.968544, 112.625723
+JPK,Jalan Guntur,-7.968087, 112.625669
+JPK,Jalan Guntur No.21,-7.968151, 112.626672
+JPK,Jalan Guntur No.31,-7.968412, 112.627831
+JPK,Jalan Guntur No.33,-7.968422, 112.628963
+JPK,Jalan Brigjend Slamet Riadi,-7.969463, 112.628915
+JPK,Jalan Brigjend Slamet Riadi,-7.970839, 112.628722
+JPK,Jalan Brigjend Slamet Riadi No.16,-7.972375, 112.628588
+JPK,Jalan Brigjend Slamet Riadi No.16,-7.973326, 112.628968
+JPK,Jalan Jaksa Agung Suprapto No.1B,-7.974186, 112.629870
+JPK,Jalan Raya Malang - Surabaya,-7.973129, 112.630497
+JPK,Jalan Jaksa Agung Suprapto No.19A,-7.972152, 112.631077
+JPK,Jalan Jaksa Agung Suprapto No.27,-7.971025, 112.631602
+JPK,Jalan Jaksa Agung Suprapto No.41,-7.970058, 112.632031
+JPK,Jalan Jaksa Agung Suprapto No.22,-7.968911, 112.632541
+JPK,Jalan Jaksa Agung Suprapto No.63,-7.967636, 112.633153
+JPK,Jalan Jaksa Agung Suprapto No.71,-7.966642, 112.633689
+JPK,Jalan Jaksa Agung Suprapto No.81,-7.965564, 112.634370
+JPK,Jalan Jaksa Agung Suprapto No.74,-7.964576, 112.634912
+JPK,Jalan Letjen Sutoyo No.11,-7.963455, 112.635465
+JPK,Jalan Letjen Sutoyo No.27B,-7.961903, 112.636205
+JPK,Jalan Letjen Sutoyo No.43,-7.960469, 112.636849
+JPK,Jalan Letjen Sutoyo No.69,-7.959364, 112.637246
+JPK,Jalan Raya Malang - Surabaya No.75,-7.958153, 112.637664
+JPK,Jalan Raya Malang - Surabaya No.91,-7.956957, 112.637938
+JPK,Jalan Raya Malang - Surabaya No.105,-7.956208, 112.638109
+JPK,Jalan Letjend S. Parman No.9,-7.954705, 112.638485
+JPK,Jalan Letjend S. Parman No.31,-7.953541, 112.638721
+JPK,Jalan Letjend S. Parman No.49,-7.952261, 112.638994
+JPK,Jalan Raya Malang - Surabaya,-7.950949, 112.639268
+JPK,Jalan Raya Malang - Surabaya,-7.950986, 112.639262
+JPK,Jalan Letjend S. Parman No.72,-7.949844, 112.639504
+JPK,Jalan Raya Malang - Surabaya No.82,-7.948675, 112.639724
+JPK,Jalan Letjend S. Parman No.111,-7.947346, 112.640067
+JPK,Jalan Letjend S. Parman No.137,-7.946140, 112.640378
+JPK,Jalan Letjend S. Parman No.147,-7.944972, 112.640759
+JPK,Jalan A. Yani No.9,-7.943872, 112.641226
+JPK,Jalan A. Yani No.9-11,-7.943149, 112.641531
+JPK,Jalan Ahmad. Yani No.30,-7.941714, 112.642157
+JPK,Jalan A. Yani No.55,-7.939897, 112.643042
+JPK,Jalan Raya Malang - Surabaya No.81,-7.938824, 112.643541
+JPK,Jalan Raya Malang - Surabaya No.81,-7.938144, 112.643841
+JPK,Jalan Raya Malang - Surabaya No.113,-7.936545, 112.644737
+JPK,Jalan Raya Malang - Surabaya No.119,-7.935849, 112.645123
+JPK,Jalan Raya Malang - Surabaya No.127,-7.935063, 112.645585
+JPK,Jalan Raya Malang - Surabaya No.147,-7.934106, 112.646094
+JPK,Jalan Jendral Ahmad Yani Utara No.163,-7.932990, 112.646722
+JPK,Jalan Jendral Ahmad Yani Utara No.171,-7.932363, 112.647044
+JPK,Jalan Jendral Ahmad Yani Utara No.9c,-7.931094, 112.647768
+JPK,Jalan Jendral Ahmad Yani Utara No.9c,-7.930307, 112.648170
+JPK,Jalan Jendral Ahmad Yani Utara No.9c,-7.929392, 112.648696
+JPK,Jalan Jendral Ahmad Yani Utara No.2013,-7.928542, 112.649142
+JPK,Jalan Jendral Ahmad Yani Utara No.37a,-7.927428, 112.649789
+JPK,Jalan Jendral Ahmad Yani Utara No.37a,-7.926445, 112.650385
+JPK,Jalan Jendral Ahmad Yani Utara No.4,-7.925685, 112.650744
+JPK,Jalan Jendral Ahmad Yani Utara No.4,-7.924983, 112.651120
+JPK,Jalan Jendral Ahmad Yani Utara No.17,-7.923825, 112.651554
+JPK,Jalan Satria Barat No.93,-7.923204, 112.651661
+JPK,Jalan Satria Barat No.117,-7.922768, 112.650733
+JPK,Jalan Satria Barat No.154,-7.922284, 112.649698
+JPK,Jalan Satria Barat No.436,-7.921976, 112.648437
+JPK,Jalan Satria Barat No.449,-7.921700, 112.647499
+JPK,Jalan Satria Barat No.436,-7.921052, 112.646495
+JPK,Jalan Satria Barat No.436,-7.920435, 112.645616
+JPK,Jalan Satria Barat No.436,-7.919851, 112.645122
+JPK,Jalan Satria Barat No.436,-7.919192, 112.644714
+JPK,Jalan Satria Barat No.436,-7.918241, 112.645154
+JPK,Jalan Karanglo Indah,-7.917040, 112.644999
+JPK,Jalan Karanglo Indah,-7.916450, 112.645299
+JPK,Jalan Karanglo Indah,-7.915473, 112.645771

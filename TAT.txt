@@ -1,0 +1,238 @@
+TAT, Jalan Mayor Jendral Sungkono No.82, -8.032392, 112.642654
+TAT, Jalan Raya Tlogowaru No.23, -8.032768, 112.643727
+TAT, Jalan Raya Tlogowaru No.23, -8.032986, 112.644334
+TAT, Jalan Raya Tlogowaru No.23, -8.033286, 112.645112
+TAT, Jalan Raya Tlogowaru No.23, -8.033583, 112.645897
+TAT, Jalan Raya Tlogowaru No.23, -8.033883, 112.646728
+TAT, Jalan Raya Tlogowaru No.23, -8.034100, 112.647305
+TAT, Jalan Raya Tlogowaru No.23, -8.034325, 112.647889
+TAT, Jalan Raya Tlogowaru No.23, -8.034521, 112.648405
+TAT, Jalan Raya Tlogowaru No.23, -8.034680, 112.648814
+TAT, Jalan Raya Tlogowaru No.23, -8.034847, 112.649277
+TAT, Jalan Raya Tlogowaru No.23, -8.034979, 112.649639
+TAT, Jalan Raya Tlogowaru No.23, -8.035180, 112.650127
+TAT, Jalan Raya Tlogowaru No.23, -8.035354, 112.650625
+TAT, Jalan Raya Tlogowaru No.23, -8.035578, 112.651200
+TAT, Jalan Sekar Sari, -8.035746, 112.651650
+TAT, Jalan Raya Tlogowaru No.26, -8.035827, 112.651855
+TAT, Jalan Raya Tlogowaru No.26, -8.035937, 112.652130
+TAT, Jalan Raya Tlogowaru No.26, -8.036056, 112.652371
+TAT, Jalan Raya Tlogowaru No.27, -8.036266, 112.652543
+TAT, Jalan Raya Tlogowaru No.14, -8.036317, 112.652779
+TAT, Jalan Raya Tlogowaru No.14, -8.036274, 112.653031
+TAT, Jalan Raya Tlogowaru No.14, -8.036394, 112.653374
+TAT, Jalan Raya Tlogowaru No.31, -8.036747, 112.654357
+TAT, Jalan Raya Tlogowaru No.34, -8.036984, 112.654921
+TAT, Jalan Raya Tlogowaru No.35, -8.037216, 112.655526
+TAT, Jalan Raya Tlogowaru No.35, -8.037478, 112.656204
+TAT, Jalan Raya Tlogowaru No.41, -8.037786, 112.657042
+TAT, Jalan Raya Tlogowaru No.41, -8.038139, 112.658013
+TAT, Jalan Raya Tlogowaru No.41-88, -8.038391, 112.658688
+TAT, Jalan Raya Tlogowaru No.41-88, -8.038635, 112.659401
+TAT, Jalan Raya Tlogowaru No.88, -8.038958, 112.660312
+TAT, Jalan Raya Tlogowaru No.125, -8.039255, 112.661177
+TAT, Jalan Raya Tlogowaru No.125, -8.039602, 112.662145
+TAT, Jalan Raya Tlogowaru No.125, -8.039537, 112.661950
+TAT, Jalan Raya Tlogowaru No.125, -8.039479, 112.661799
+TAT, Jalan Raya Tlogowaru No.125, -8.039391, 112.661549
+TAT, Jalan Raya Tlogowaru No.125, -8.039226, 112.660989
+TAT, Jalan Raya Tlogowaru No.88, -8.038948, 112.660322
+TAT, Jalan Raya Tlogowaru No.41-88, -8.038647, 112.659461
+TAT, Jalan Raya Tlogowaru No.41-88, -8.038377, 112.658691
+TAT, Jalan Raya Tlogowaru No.41, -8.038121, 112.657981
+TAT, Jalan Raya Tlogowaru No.41, -8.037802, 112.657048
+TAT, Jalan Raya Tlogowaru No.41, -8.037637, 112.656635
+TAT, Jalan Raya Tlogowaru No.35, -8.037474, 112.656213
+TAT, Jalan Raya Tlogowaru No.35, -8.037300, 112.655757
+TAT, Jalan Raya Tlogowaru No.34-35, -8.037076, 112.655169
+TAT, Jalan Raya Tlogowaru No.34, -8.036895, 112.654704
+TAT, Jalan Raya Tlogowaru No.31, -8.036748, 112.654366
+TAT, Jalan Raya Tlogowaru No.31, -8.036639, 112.654041
+TAT, Jalan Raya Tlogowaru No.31, -8.036552, 112.653806
+TAT, Jalan Raya Tlogowaru No.14, -8.036411, 112.653434
+TAT, Jalan Raya Tlogowaru No.14, -8.036270, 112.653051
+TAT, Jalan Raya Tlogowaru No.14, -8.036268, 112.652949
+TAT, Jalan Raya Tlogowaru No.14, -8.036301, 112.652785
+TAT, Jalan Raya Tlogowaru No.27, -8.036290, 112.652613
+TAT, Jalan Raya Tlogowaru No.27, -8.036185, 112.652480
+TAT, Jalan Raya Tlogowaru No.26, -8.036040, 112.652363
+TAT, Jalan Raya Tlogowaru No.26, -8.035877, 112.652031
+TAT, Jalan Raya Tlogowaru No.26, -8.035740, 112.651648
+TAT, Jalan Sekar Sari, -8.036062, 112.651522
+TAT, Jalan Sekar Sari, -8.036315, 112.651436
+TAT, Jalan Sekar Sari, -8.036647, 112.651318
+TAT, Jalan Sekar Sari, -8.036948, 112.651210
+TAT, Jalan Sekar Sari, -8.037288, 112.651091
+TAT, Jalan Sekar Sari, -8.037537, 112.651012
+TAT, Jalan Sekar Sari, -8.037935, 112.650903
+TAT, Jalan Sekar Sari, -8.038267, 112.650822
+TAT, Jalan Sekar Sari, -8.038507, 112.650749
+TAT, Jalan Sekar Sari, -8.038756, 112.650675
+TAT, Jalan Sekar Sari, -8.039033, 112.650599
+TAT, Jalan Sekar Sari, -8.039377, 112.650498
+TAT, Jalan Sekar Sari, -8.039729, 112.650399
+TAT, Jalan Sekar Sari, -8.040065, 112.650308
+TAT, Jalan Sekar Sari, -8.040343, 112.650249
+TAT, Jalan Tajinan No.204, -8.040672, 112.650173
+TAT, Jalan Tajinan No.204, -8.040534, 112.649718
+TAT, Jalan Tajinan No.204, -8.040416, 112.649347
+TAT, Jalan Tajinan No.204, -8.040307, 112.649028
+TAT, Jalan Tajinan No.204, -8.040201, 112.648707
+TAT, Jalan Tajinan No.204, -8.040111, 112.648441
+TAT, Jalan Tajinan No.204, -8.040042, 112.648224
+TAT, Jalan Tajinan No.204, -8.040039, 112.648220
+TAT, Jalan Tajinan No.204, -8.039954, 112.647959
+TAT, Jalan Tajinan No.204, -8.039884, 112.647739
+TAT, Jalan Tajinan No.204, -8.039826, 112.647566
+TAT, Jalan Tajinan No.204, -8.039756, 112.647341
+TAT, Jalan Tajinan No.204, -8.039677, 112.647101
+TAT, Jalan Tajinan No.204, -8.039617, 112.646892
+TAT, Jalan Tajinan No.204, -8.039547, 112.646655
+TAT, Jalan Tajinan No.204, -8.039486, 112.646429
+TAT, Jalan Tajinan No.204, -8.039414, 112.646183
+TAT, Jalan Tajinan No.204, -8.039312, 112.645818
+TAT, Jalan Tajinan No.204, -8.039252, 112.645625
+TAT, Jalan Tajinan No.204, -8.039194, 112.645410
+TAT, Jalan Tajinan No.204, -8.039128, 112.645183
+TAT, Jalan Tajinan No.204, -8.039055, 112.644917
+TAT, Jalan Tajinan No.204, -8.038978, 112.644655
+TAT, Jalan Tajinan No.204, -8.038900, 112.644369
+TAT, Jalan Tajinan No.204, -8.038818, 112.644095
+TAT, Jalan Tajinan No.204, -8.038755, 112.643848
+TAT, Jalan Tajinan, -8.038688, 112.643633
+TAT, Jalan Tajinan, -8.038615, 112.643369
+TAT, Jalan Tajinan, -8.038615, 112.643369
+TAT, Jalan Tajinan, -8.038456, 112.642845
+TAT, Jalan Tajinan, -8.038392, 112.642631
+TAT, Jalan Raya Sempalwadak No.1a, -8.038332, 112.642372
+TAT, Jalan Arjowinangun No.1, -8.038267, 112.642367
+TAT, Jalan Arjowinangun No.1, -8.038244, 112.642161
+TAT, Jalan Arjowinangun No.1, -8.038215, 112.641997
+TAT, Jalan Arjowinangun No.1, -8.038192, 112.641810
+TAT, Jalan Arjowinangun No.1, -8.038152, 112.641583
+TAT, Jalan Arjowinangun No.1, -8.038121, 112.641391
+TAT, Jalan Arjowinangun No.1, -8.038080, 112.641181
+TAT, Jalan Arjowinangun No.1, -8.038042, 112.640966
+TAT, Jalan Arjowinangun No.1, -8.037994, 112.640738
+TAT, Jalan Arjowinangun No.1, -8.037958, 112.640567
+TAT, Jalan Arjowinangun No.22, -8.037919, 112.640351
+TAT, Jalan Arjowinangun No.22, -8.037856, 112.640091
+TAT, Jalan Arjowinangun No.22, -8.037782, 112.639845
+TAT, Jalan Arjowinangun No.22, -8.037713, 112.639578
+TAT, Jalan Arjowinangun No.22, -8.037672, 112.639394
+TAT, Jalan Arjowinangun No.22, -8.037583, 112.639083
+TAT, Jalan Arjowinangun No.22, -8.037473, 112.638750
+TAT, Jalan Arjowinangun No.22, -8.037396, 112.638448
+TAT, Jalan Arjowinangun No.22, -8.037298, 112.638129
+TAT, Jalan Arjowinangun No.22, -8.037218, 112.637836
+TAT, Jalan Arjowinangun No.22, -8.037160, 112.637620
+TAT, Jalan Arjowinangun No.22, -8.037098, 112.637404
+TAT, Jalan Arjowinangun No.22, -8.037046, 112.637192
+TAT, Jalan Arjowinangun No.22, -8.036979, 112.636942
+TAT, Jalan Arjowinangun No.22, -8.036923, 112.636753
+TAT, Jalan Arjowinangun No.22, -8.036856, 112.636501
+TAT, Jalan Arjowinangun No.22, -8.036789, 112.636249
+TAT, Jalan Arjowinangun No.22, -8.036731, 112.636037
+TAT, Jalan Arjowinangun No.22, -8.036664, 112.635802
+TAT, Jalan Arjowinangun No.22, -8.036616, 112.635605
+TAT, Jalan Arjowinangun No.22, -8.036565, 112.635426
+TAT, Jalan Arjowinangun No.56, -8.036474, 112.635150
+TAT, Jalan Arjowinangun No.56, -8.036387, 112.634868
+TAT, Jalan Arjowinangun No.56, -8.036272, 112.634516
+TAT, Jalan Arjowinangun No.56, -8.036178, 112.634218
+TAT, Jalan Arjowinangun No.56, -8.036081, 112.633936
+TAT, Jalan Arjowinangun No.56, -8.036004, 112.633682
+TAT, Jalan Arjowinangun No.56, -8.035924, 112.633439
+TAT, Jalan Arjowinangun No.56, -8.035840, 112.633171
+TAT, Jalan Arjowinangun No.56, -8.035491, 112.633231
+TAT, Jalan Arjowinangun No.56, -8.035206, 112.633276
+TAT, Jalan Arjowinangun No.56, -8.035049, 112.633302
+TAT, Jalan Arjowinangun No.56, -8.034745, 112.633361
+TAT, Jalan Arjowinangun No.56, -8.034548, 112.633390
+TAT, Jalan Arjowinangun No.33, -8.034421, 112.633406
+TAT, Jalan Arjowinangun No.56, -8.034331, 112.633313
+TAT, Jalan Arjowinangun No.56, -8.034235, 112.633117
+TAT, Jalan Arjowinangun No.56, -8.034129, 112.632865
+TAT, Jalan Arjowinangun No.56, -8.034007, 112.632561
+TAT, Jalan Arjowinangun No.56, -8.033871, 112.632229
+TAT, Jalan Arjowinangun No.56, -8.033683, 112.631794
+TAT, Jalan Arjowinangun No.56, -8.033470, 112.631293
+TAT, Jalan Arjowinangun No.56, -8.033337, 112.630949
+TAT, Jalan Arjowinangun No.56, -8.033215, 112.630679
+TAT, Jalan Arjowinangun No.56, -8.033154, 112.630574
+TAT, Jalan Arjowinangun No.56, -8.033029, 112.630574
+TAT, Jalan Arjowinangun No.33, -8.032671, 112.630660
+TAT, Jalan Wonorejo I, -8.032216, 112.630751
+TAT, Jalan Arjowinangun No.57, -8.031622, 112.630874
+TAT, Jalan Arjowinangun No.57, -8.031290, 112.630987
+TAT, Jalan Bumiayu - Bululawang No.66, -8.031222, 112.630622
+TAT, Jalan Bumiayu - Bululawang No.74, -8.031143, 112.630054
+TAT, Jalan Bumiayu - Bululawang No.74, -8.031042, 112.629400
+TAT, Jalan Bumiayu - Bululawang No.74, -8.030947, 112.628763
+TAT, Jalan Simpang Lowokdoro, -8.030872, 112.628408
+TAT, Jalan Simpang Lowokdoro, -8.030824, 112.628040
+TAT, Jalan Simpang Lowokdoro, -8.030699, 112.627745
+TAT, Jalan Simpang Lowokdoro, -8.030525, 112.627537
+TAT, Jalan Simpang Lowokdoro, -8.030266, 112.627346
+TAT, Jalan Simpang Lowokdoro, -8.029893, 112.627173
+TAT, Jalan Simpang Lowokdoro, -8.029861, 112.627073
+TAT, Gang 4, -8.029808, 112.626874
+TAT, Jalan Kolonel Sugiono No.15, -8.029381, 112.627067
+TAT, Jalan Kolonel Sugiono No.15, -8.028890, 112.627101
+TAT, Jalan Kolonel Sugiono No.535, -8.028207, 112.627152
+TAT, Jalan Kolonel Sugiono No.535, -8.027708, 112.627206
+TAT, Gang 2, -8.027347, 112.627230
+TAT, Jalan Kolonel Sugiono No.535, -8.026734, 112.627308
+TAT, Jalan Kolonel Sugiono No.535, -8.026131, 112.627353
+TAT, Jalan Kolonel Sugiono No.535, -8.025543, 112.627414
+TAT, Jalan Kolonel Sugiono No.535, -8.025041, 112.627452
+TAT, Jalan Kolonel Sugiono No.535, -8.024495, 112.627490
+TAT, Jalan Kolonel Sugiono No.535, -8.023626, 112.627557
+TAT, Jalan Apida Satsui Tubun No.15, -8.022808, 112.627586
+TAT, Jalan Apida Satsui Tubun No.15, -8.022620, 112.626806
+TAT, Jalan Apida Satsui Tubun No.15, -8.022534, 112.626408
+TAT, Jalan Apida Satsui Tubun No.28a, -8.022405, 112.625877
+TAT, Jalan Apida Satsui Tubun No.28a, -8.022278, 112.625393
+TAT, Jalan Apida Satsui Tubun No.28a, -8.022202, 112.625041
+TAT, Jalan Apida Satsui Tubun No.28a, -8.022114, 112.624676
+TAT, Jalan Apida Satsui Tubun No.32, -8.022031, 112.624320
+TAT, Jalan Apida Satsui Tubun No.32, -8.021955, 112.624043
+TAT, Jalan Apida Satsui Tubun No.28, -8.021858, 112.623677
+TAT, Jalan Apida Satsui Tubun No.28, -8.021793, 112.623447
+TAT, Jalan Satsui Tubun Gang IV, -8.021727, 112.623232
+TAT, Jalan Apida Satsui Tubun No.20, -8.021578, 112.622846
+TAT, Jalan Apida Satsui Tubun No.20, -8.021493, 112.622607
+TAT, Jalan Apida Satsui Tubun No.20, -8.021381, 112.622309
+TAT, Jalan Apida Satsui Tubun No.39, -8.021255, 112.621971
+TAT, Jalan Satsui Tubun 1 No.24, -8.021144, 112.621682
+TAT, Jalan Apida Satsui Tubun No.39, -8.021032, 112.621388
+TAT, Jalan Apida Satsui Tubun No.29, -8.020909, 112.621043
+TAT, Jalan Apida Satsui Tubun No.25, -8.020808, 112.620744
+TAT, Jalan Apida Satsui Tubun No.25, -8.020724, 112.620524
+TAT, Jalan Apida Satsui Tubun No.8a, -8.020614, 112.620197
+TAT, Jalan Apida Satsui Tubun No.8a, -8.020472, 112.619842
+TAT, Jalan Apida Satsui Tubun No.8a, -8.020366, 112.619578
+TAT, Jalan Apida Satsui Tubun No.8a, -8.020261, 112.619295
+TAT, Jalan Kebon Sari No.174, -8.020172, 112.619073
+TAT, Jalan Kebon Sari No.174, -8.019727, 112.619232
+TAT, Jalan Kebon Sari No.174, -8.019361, 112.619398
+TAT, Jalan Sudanco Supriadi No.8, -8.018936, 112.619564, -8.018610, 112.619683
+TAT, Jalan Sudanco Supriadi No.8, -8.018753, 112.619636, -8.018621, 112.619676
+TAT, Jalan Sudanco Supriadi No.8, -8.018443, 112.619752
+TAT, Jalan Kebon Sari, -8.018298, 112.619794
+TAT, Jalan Kebon Sari No.2 - A, -8.018112, 112.619840
+TAT, Jalan Kebon Sari No.2, -8.017814, 112.619915
+TAT, Jalan Kebon Sari No.2, -8.017442, 112.619986
+TAT, Jalan Kebon Sari No.53, -8.017167, 112.620027
+TAT, Jalan Kebon Sari No.53, -8.016802, 112.620092
+TAT, Jalan Sudanco Supriadi No.14a, -8.016576, 112.620117
+TAT, Jalan Sudanco Supriadi No.14a, -8.016334, 112.620142
+TAT, Jalan Raya Tirtasari No.12, -8.016216, 112.619833
+TAT, Jalan Raya Tirtasari No.12, -8.016107, 112.619620
+TAT, Jalan Raya Tirtasari No.12, -8.015945, 112.619343
+TAT, Jalan Raya Tirtasari No.12, -8.015810, 112.619135
+TAT, Jalan Raya Tirtasari No.12, -8.015994, 112.618936
+TAT, Jalan Raya Tirtasari No.15, -8.016238, 112.618738
+TAT, Jalan Raya Tirtasari No.15, -8.016419, 112.618598
+TAT, Jalan Raya Tirtasari No.15, -8.016633, 112.618448
+TAT, Jalan Raya Tirtasari No.15, -8.016811, 112.618262

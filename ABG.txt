@@ -1,0 +1,391 @@
+ABG, Jalan Raden Intan No.99, -7.933036, 112.657780
+ABG, Jalan Raden Intan No.99, -7.933004, 112.657571
+ABG, Jalan Raden Intan No.99, -7.932967, 112.657358
+ABG, Terminal Arjosari, -7.933212, 112.658062
+ABG, Jalan Raden Intan No.99, -7.933075, 112.658189
+ABG, Jalan Raden Intan No.99, -7.933053, 112.657990
+ABG, Jalan Raden Intan, -7.932902, 112.657066
+ABG, Jalan Raden Intan, -7.932857, 112.656878
+ABG, Jalan Raden Intan, -7.932729, 112.656533
+ABG, Jalan Raden Intan, -7.932517, 112.656037
+ABG, Jalan Teluk Etna V No.27, -7.932263, 112.655423
+ABG, Jalan Raden Intan, -7.931879, 112.654560
+ABG, Jalan Raden Intan, -7.931568, 112.653897
+ABG, Jalan Raden Intan, -7.931448, 112.653575
+ABG, Jalan Raden Intan No.103, -7.930944, 112.652463
+ABG, Jalan Raden Intan No.103, -7.930723, 112.651848
+ABG, Jalan Raden Intan No.103, -7.930471, 112.651218
+ABG, Jalan Panjisuroso, Jalan Raden Intan No.1, -7.929775, 112.649772
+ABG, Jalan Raden Intan No.1, -7.929391, 112.649051
+ABG, Jalan Jendral Ahmad Yani Utara No.9c, -7.929467, 112.648816
+ABG, Jalan Jendral Ahmad Yani Utara No.9c, -7.929728, 112.648671
+ABG, Jalan Jendral Ahmad Yani Utara No.9c, -7.930134, 112.648469
+ABG, Jalan Jendral Ahmad Yani Utara No.9c, -7.930463, 112.648276
+ABG, Jalan A. Yani Utara Gang Delima, -7.930750, 112.648118
+ABG, Jalan Jendral Ahmad Yani Utara No.9c, -7.930894, 112.648042
+ABG, Jalan Jendral Ahmad Yani Utara No.171, -7.931929, 112.647457
+ABG, Jalan Jendral Ahmad Yani Utara No.171, -7.932284, 112.647259
+ABG, Jalan Jendral Ahmad Yani Utara No.165, -7.932666, 112.647045
+ABG, Jalan Jendral Ahmad Yani Utara No.163, -7.933189, 112.646723
+ABG, Jalan Raya Malang - Surabaya No.153a, -7.933590, 112.646479
+ABG, Jalan Raya Malang - Surabaya No.180, -7.934111, 112.646204
+ABG, Jalan Raya Malang - Surabaya No.180, -7.934429, 112.646030
+ABG, Jalan Raya Malang - Surabaya No.127, -7.934690, 112.645873
+ABG, Jalan Raya Malang - Surabaya No.127, -7.934911, 112.645728
+ABG, Jalan Raya Malang - Surabaya No.142, -7.935224, 112.645566
+ABG, Jalan Raya Malang - Surabaya No.142, -7.935702, 112.645309
+ABG, Jalan Raya Malang - Surabaya No.142, -7.936100, 112.645094
+ABG, Jalan Raya Malang - Surabaya No.140, -7.936448, 112.644853
+ABG, Jalan Raya Malang - Surabaya No.112, -7.936741, 112.644709
+ABG, Jalan Raya Malang - Surabaya No.112, -7.937179, 112.644463
+ABG, Jalan Raya Malang - Surabaya No.112, -7.937558, 112.644244
+ABG, Jalan Raya Malang - Surabaya No.110, -7.937938, 112.644052
+ABG, Jalan Raya Malang - Surabaya No.110, -7.938144, 112.643955
+ABG, Jalan A. Yani No.126, -7.938689, 112.643701
+ABG, Gang Perusahaan, -7.939182, 112.643489
+ABG, Jalan A. Yani No.55, -7.939656, 112.643255
+ABG, Jalan A. Yani No.78, -7.940063, 112.643050
+ABG, Jalan A. Yani No.74, -7.940258, 112.642962
+ABG, Jalan Raya Malang - Surabaya No.66, -7.940441, 112.642871
+ABG, Jalan Laksda Adi Sucipto No.5, -7.940716, 112.642742
+ABG, Jalan Raya Malang - Surabaya No.66, -7.940811, 112.642699
+ABG, Jalan Raya Malang - Surabaya No.66, -7.940948, 112.642626
+ABG, Jalan Ahmad. Yani No.30, -7.941147, 112.642553
+ABG, Gang Satria, -7.941513, 112.642389
+ABG, Jalan Ahmad. Yani No.30, -7.941750, 112.642286
+ABG, Jalan A. Yani No.30, -7.941850, 112.642234
+ABG, Jalan Borobudur No.28, -7.941767, 112.642094
+ABG, Jalan Borobudur No.28, -7.941624, 112.641770
+ABG, Jalan Borobudur No.28, -7.941504, 112.641512
+ABG, Jalan Borobudur No.28, -7.941439, 112.641367
+ABG, Jalan Candi Kidal, -7.941378, 112.641217
+ABG, Jalan Borobudur No.28, -7.941269, 112.640957
+ABG, Jalan Borobudur No.7, -7.941179, 112.640729
+ABG, Jalan Candi Kalasan No.8, -7.940994, 112.640278
+ABG, Jalan Borobudur No.47, -7.940777, 112.639776
+ABG, Jalan Borobudur No.1, -7.940595, 112.639338
+ABG, Jalan Borobudur No.47, -7.940478, 112.638999
+ABG, Jalan Borobudur No.6, -7.940351, 112.638675
+ABG, Jalan Borobudur No.6, -7.940234, 112.638371
+ABG, Jalan Borobudur No.19, -7.939976, 112.637696
+ABG, Jalan Borobudur No.19, -7.939774, 112.637250
+ABG, Jalan Ini Akan Diaspal, -7.939618, 112.636904
+ABG, Jalan Borobudur No.18, -7.939531, 112.636832
+ABG, Jalan Borobudur No.18, -7.939472, 112.636701
+ABG, Jalan Borobudur No.36, -7.939352, 112.636426
+ABG, Jalan Borobudur No.36, -7.939205, 112.636075
+ABG, Jalan Borobudur No.36, -7.939161, 112.635863
+ABG, Jalan Borobudur No.36, -7.939172, 112.635471
+ABG, Jalan Borobudur No.57, -7.939191, 112.635313
+ABG, Jalan BorobudurJalan Borobudur No.80, -7.938889, 112.634254
+ABG,  No.57, -7.939178, 112.635145
+ABG, Jalan Borobudur No.57, -7.939149, 112.635049
+ABG, Jalan Borobudur No.59b, -7.939035, 112.634733
+ABG, Jalan Borobudur No.59b, -7.938923, 112.634375
+ABG, Jalan Borobudur No.80, -7.938842, 112.633979
+ABG, Jalan Borobudur No.80, -7.938855, 112.633758
+ABG, Jalan Borobudur No.80, -7.938895, 112.633593
+ABG, Jalan Borobudur No.80, -7.938987, 112.633369
+ABG, Jalan Borobudur, -7.939125, 112.633228
+ABG, Jalan Borobudur, -7.939271, 112.633041
+ABG, Jalan Borobudur, -7.939341, 112.632869
+ABG, Jalan Soekarno Hatta No.8, -7.939372, 112.632703
+ABG, Cak Pti, -7.939440, 112.632385
+ABG, Jalan Soekarno Hatta No.1, -7.939466, 112.632123
+ABG, Jalan Soekarno Hatta No.7, -7.939458, 112.631879
+ABG, Jalan Soekarno Hatta No.7a, -7.939428, 112.631653
+ABG, Jalan Soekarno Hatta No.7a, -7.939381, 112.631452
+ABG, Jalan Soekarno Hatta No.7a, -7.939312, 112.631263
+ABG, Jalan Soekarno Hatta No.23, -7.939234, 112.631051
+ABG, Jalan Soekarno Hatta No.25, -7.939144, 112.630853
+ABG, Jalan Soekarno Hatta Indah No.27, -7.938979, 112.630496
+ABG, Jalan Soekarno Hatta No.29, -7.938792, 112.630079
+ABG, Jalan Soekarno Hatta No.35A, -7.938572, 112.629662
+ABG, Jalan Soekarno Hatta No.35, -7.938331, 112.629144
+ABG, Jalan Soekarno Hatta No.35, -7.938089, 112.628639
+ABG, Jalan Soekarno Hatta No.35, -7.937822, 112.628061
+ABG, Jalan Sukarno Hatta Dlm, -7.937462, 112.627353
+ABG, Jalan Soekarno Hatta No.88, -7.937161, 112.626877
+ABG, Jalan Soekarno Hatta No.88, -7.936998, 112.626498
+ABG, Jalan Soekarno Hatta No.88, -7.937048, 112.626420
+ABG, Jalan Soekarno Hatta No.88, -7.937052, 112.626325
+ABG, Jalan Soekarno Hatta No.88, -7.937223, 112.626197
+ABG, Jalan Soekarno Hatta No.88, -7.937334, 112.626124
+ABG, Jalan Soekarno Hatta No.2, -7.937850, 112.625876
+ABG, Jalan Soekarno Hatta No.2, -7.938395, 112.625610
+ABG, Jalan Soekarno Hatta No.2, -7.938729, 112.625436
+ABG, Jalan Candi Mendut Barat, -7.939080, 112.625267
+ABG, Jalan Soekarno Hatta No.2, -7.939476, 112.625045
+ABG, Jalan Soekarno Hatta No.2, -7.939718, 112.624800
+ABG, Jalan Soekarno Hatta No.2, -7.939941, 112.624527
+ABG, Jalan Soekarno Hatta, -7.940347, 112.624057
+ABG, Jalan Soekarno Hatta, -7.940780, 112.623594
+ABG, Jalan Soekarno Hatta, -7.941047, 112.623283
+ABG, Jalan Soekarno Hatta, -7.941301, 112.623012
+ABG, Jalan Soekarno Hatta No.210, -7.941478, 112.622812
+ABG, Jalan Soekarno Hatta, -7.941684, 112.622534
+ABG, Jalan Soekarno Hatta, -7.941872, 112.622303
+ABG, Jalan Soekarno Hatta, -7.942020, 112.622126
+ABG, Jalan Soekarno Hatta, -7.942172, 112.621939
+ABG, Jalan Soekarno Hatta, -7.942286, 112.621808
+ABG, Jalan Soekarno Hatta, -7.942703, 112.621348
+ABG, Jalan Soekarno Hatta No.1A, -7.943278, 112.620704
+ABG, Jalan Soekarno Hatta No.1A, -7.944055, 112.619948
+ABG, Jalan Soekarno Hatta No.32, -7.944586, 112.619476
+ABG, Jalan Bunga Coklat No.7, -7.944971, 112.620114
+ABG, Jalan Bunga Coklat No.7, -7.945157, 112.620411
+ABG, Jalan Karet, -7.945366, 112.620736
+ABG, Jalan Puncak Cengkeh, -7.945587, 112.621049
+ABG, Jalan B. Cengkeh No.51, -7.945758, 112.621323
+ABG, Jalan B. Cengkeh No.55, -7.945938, 112.621629
+ABG, Jalan B. Cengkeh No.42, -7.946146, 112.621970
+ABG, Jalan B. Cengkeh No.36, -7.946317, 112.622270
+ABG, Jalan B. Cengkeh No.30, -7.946508, 112.622624
+ABG, Jalan B. Cengkeh No.30, -7.946712, 112.623001
+ABG, Jalan SImpang Cengkeh, -7.946861, 112.623365
+ABG, Jalan B. Cengkeh No.143, -7.947123, 112.623864
+ABG, Jalan B. Cengkeh No.143, -7.947264, 112.624152
+ABG, Jalan B. Cengkeh No.143, -7.947400, 112.624392
+ABG, Jalan Dewandaru No.56, -7.947528, 112.624625
+ABG, Jalan Kalpataru No.124, -7.947692, 112.624925
+ABG, Jalan Kalpataru No.124, -7.947828, 112.625164
+ABG, Jalan Tapak Jalak, -7.947933, 112.625361
+ABG, Jalan Tepus Kaki No.1, -7.948042, 112.625538
+ABG, Jalan Kalpataru No.145, -7.948151, 112.625695
+ABG, Jalan Kalpataru No.140, -7.948267, 112.625919
+ABG, Jalan Kalpataru No.112 F, -7.948468, 112.626331
+ABG, Jalan Kosmea, -7.948654, 112.626700
+ABG, Jalan Kalpataru No.98, -7.948851, 112.627072
+ABG, Jalan Kalpataru No.111, -7.949016, 112.627359
+ABG, Jalan Kalpataru No.90, -7.949151, 112.627673
+ABG, Jalan Kalpataru No.86, -7.949327, 112.628005
+ABG, Jalan Kalpataru No.75-77, -7.949506, 112.628359
+ABG, Jalan Kalpataru No.61-65, -7.949704, 112.628751
+ABG, Jalan Gladiol, -7.949863, 112.629086
+ABG, Agenpos Kalpataru, Jalan Kalpataru, -7.950058, 112.629460
+ABG, Jalan Kalpataru No.45, -7.950162, 112.629602
+ABG, Jalan Kalpataru No.37, -7.950325, 112.629920
+ABG, Jalan Kembang Sepatu No.6, -7.950463, 112.630309
+ABG, Jalan Simpang Kalpataru No.2, -7.950566, 112.630671
+ABG, Jalan Kalpataru No.20, -7.950683, 112.631067
+ABG, Jalan Melati No.65, -7.950835, 112.631625
+ABG, Jalan Melati No.65, -7.951118, 112.631585
+ABG, Jalan Melati No.65, -7.951238, 112.631577
+ABG, Jalan Melati No.1, -7.951515, 112.631627
+ABG, Jalan Melati No.1, -7.951712, 112.631682
+ABG, Jalan Melati No.1, -7.951907, 112.631745
+ABG, Jalan Bungur No.37, -7.951955, 112.631812
+ABG, Jalan Melati No.1, -7.952032, 112.631826
+ABG, Jalan Melati No.1, -7.952256, 112.631870
+ABG, Jalan Bungur No.55, -7.952612, 112.631934
+ABG, Jalan Melati No.48, -7.952704, 112.631927
+ABG, Jalan Bungur No.48, -7.953086, 112.631911
+ABG, Jalan Dilem, -7.953439, 112.631887
+ABG, Jalan Melati No.43, -7.953764, 112.631851
+ABG, Jalan Melati No.43, -7.954066, 112.631826
+ABG, Jalan Bungur No.35, -7.954505, 112.631783
+ABG, Jalan Dilem, -7.954520, 112.632111
+ABG, Jalan Seruni No.8, -7.954550, 112.632519
+ABG, Jalan Seruni No.8, -7.954550, 112.632519
+ABG, Jalan Seruni, -7.954668, 112.633326
+ABG, Jalan Mawar No.44, -7.954925, 112.633208
+ABG, Jalan Mawar No.44, -7.955098, 112.633131
+ABG, Jalan Mawar No.44, -7.955098, 112.633131
+ABG, Jalan Mawar No.39, -7.955546, 112.632896
+ABG, Jalan Mawar No.34, -7.955822, 112.632753
+ABG, Jalan Mawar No.37A, -7.956128, 112.632584
+ABG, Jalan Teratai No.1, -7.956401, 112.632399
+ABG, Jalan Mawar No.31B, -7.956727, 112.632218
+ABG, Jalan Mawar No.31B, -7.956959, 112.632085
+ABG, Jalan Mawar No.31, -7.957106, 112.632006
+ABG, Jalan Mawar No.32, -7.957278, 112.631930
+ABG, Jalan Locari No.1, -7.957678, 112.631754
+ABG, Jalan Mawar No.18, -7.957879, 112.631686
+ABG, Jalan Mawar No.11, -7.958074, 112.631582
+ABG, Jalan Mawar Gang I No.3, -7.958322, 112.631490
+ABG, Jalan Mawar No.7, -7.958594, 112.631327
+ABG, Jalan Mawar No.1C, -7.958920, 112.631145
+ABG, Jalan Sarangan No.54, -7.959159, 112.631387
+ABG, Jalan Sarangan No.52, -7.959290, 112.631541
+ABG, Jalan Sarangan No.52, -7.959462, 112.631778
+ABG, Jalan Sarangan No.46, -7.959567, 112.631914
+ABG, Jalan Tawangmangu No.1, -7.959645, 112.632047
+ABG, Jalan Tawangmangu No.1, -7.959847, 112.631941
+ABG, Jalan Tawangmangu No.1, -7.960113, 112.631815
+ABG, Jalan Tawangmangu No.1, -7.960326, 112.631693
+ABG, Jalan Tawangmangu No.19, -7.960545, 112.631577
+ABG, Jalan Parangtritis No.5, -7.960742, 112.631462
+ABG, Jalan Tawangmangu No.19, -7.960949, 112.631381
+ABG, Jalan Sumber Waras, -7.961153, 112.631297
+ABG, Jalan Tawangmangu No.21C, -7.961416, 112.631111
+ABG, Jalan Tawangmangu No.8, -7.961670, 112.630864
+ABG, Jalan Tawangmangu No.27, -7.961851, 112.630723
+ABG, Jalan Tawangmangu No.27, -7.962058, 112.630561
+ABG, Jalan Kaliurang No.68, -7.962281, 112.630952
+ABG, Jalan Kaliurang No.60, -7.962566, 112.631427
+ABG, Jalan Kaliurang No.52, -7.962731, 112.631723
+ABG, Jalan Kaliurang No.42, -7.962960, 112.632171
+ABG, Jalan Tretes Sel No.16, -7.963140, 112.632531
+ABG, Jalan Kaliurang No.30 - I, -7.963400, 112.632994
+ABG, Jalan Kaliurang No.26, -7.963601, 112.633381
+ABG, Jalan Kaliurang No.19, -7.963875, 112.633846
+ABG, Jalan Kaliurang No.8, -7.964066, 112.634200
+ABG, Jalan Kaliurang, -7.964466, 112.634904
+ABG, Jalan Warung Supratman, -7.964618, 112.635173
+ABG, Jalan Warung Supratman, -7.964710, 112.635381
+ABG, Jalan Warung Supratman, -7.964779, 112.635514
+ABG, Jalan Warung Supratman, -7.964886, 112.635707
+ABG, Gang I, -7.965007, 112.635925
+ABG, Jalan Warung Supratman, -7.965360, 112.636512
+ABG, Jalan Warung Supratman, -7.965408, 112.636577
+ABG, Jalan Warung Supratman, -7.965463, 112.636647
+ABG, Jalan Warung Supratman, -7.965538, 112.636806
+ABG, Jalan Warung Supratman, -7.965746, 112.637232
+ABG, Jalan Warung Supratman, -7.965944, 112.637530
+ABG, Jalan Raya Mahakam, -7.966130, 112.637860
+ABG, Jalan Raya Mahakam, -7.966337, 112.638210
+ABG, Jalan Panglima Sudirman, -7.966713, 112.638237
+ABG, Jalan Panglima Sudirman, -7.966812, 112.638388
+ABG, Jalan Raya Mahakam, -7.966955, 112.638522
+ABG, Jalan Raden Tumenggung Suryo No.4, -7.966964, 112.638591
+ABG, Jalan Raden Tumenggung Suryo No.4, -7.967001, 112.638660
+ABG, Jalan Hamid Rusdi No.19, -7.967109, 112.638738
+ABG, Jalan Hamid Rusdi No.19, -7.967213, 112.638739
+ABG, Jalan Hamid Rusdi No.19, -7.967270, 112.638717
+ABG, Jalan Hamid Rusdi No.19, -7.967328, 112.638667
+ABG, Malang, -7.967358, 112.638620
+ABG, Jalan Panglima Sudirman, -7.967377, 112.638542
+ABG, Jalan Panglima Sudirman, -7.967456, 112.638447
+ABG, Jalan Panglima Sudirman, -7.967521, 112.638378
+ABG, Jalan Panglima Sudirman, -7.967615, 112.638316
+ABG, Jalan Panglima Sudirman, -7.967909, 112.638312
+ABG, Jalan Panglima Sudirman, -7.968247, 112.638323
+ABG, Jalan Panglima Sudirman, -7.968568, 112.638328
+ABG, Jalan Panglima Sudirman No.98, -7.968862, 112.638361
+ABG, Jalan Dokter Cipto No.32, -7.969222, 112.638385
+ABG, Jalan Panglima Sudirman No.98, -7.969762, 112.638439
+ABG, Jalan Panglima Sudirman No.1, -7.970420, 112.638447
+ABG, Jalan Panglima Sudirman No.1, -7.971103, 112.638493
+ABG, Jalan Setiabudi, -7.971836, 112.638500
+ABG, Jalan Panglima Sudirman No.75, -7.972403, 112.638523
+ABG, Jalan Panglima Sudirman No.75, -7.972903, 112.638534
+ABG, Jalan Panglima Sudirman No.12, -7.973470, 112.638553
+ABG, Jalan Patimura, -7.973453, 112.637901
+ABG, Takmir Masjid Ar Rahman, -7.973408, 112.637335
+ABG, Jalan Patimura No.69, -7.973423, 112.637046
+ABG, Jalan Trunojoyo No.33, -7.973430, 112.636681
+ABG, Jalan Trunojoyo No.31-33, -7.973813, 112.636699
+ABG, Studio Foto Digital, -7.974119, 112.636716
+ABG, Jalan Trunojoyo No.31, -7.974356, 112.636719
+ABG, Jalan Trunojoyo No.21-27, -7.974704, 112.636726
+ABG, Jalan Trunojoyo No.44, -7.975220, 112.636754
+ABG, Jalan Trunojoyo No.68, -7.975554, 112.636768
+ABG, Jalan Trunojoyo No.78, -7.975894, 112.636773
+ABG, Jalan Trunojoyo No.78, -7.976234, 112.636784
+ABG, Jalan Trunojoyo No.78-81, -7.976503, 112.636781
+ABG, Jalan Trunojoyo No.81, -7.976910, 112.636806
+ABG, Jalan Trunojoyo No.81, -7.977215, 112.636821
+ABG, Jalan Kertanegara No.3, -7.977471, 112.636825
+ABG, Jalan Kertanegara No.3, -7.977685, 112.636855
+ABG, Jalan Trunojoyo No.10, -7.978085, 112.636884
+ABG, Jalan Trunojoyo No.10, -7.978331, 112.636899
+ABG, Jalan Trunojoyo No.10, -7.978716, 112.636916
+ABG, Jalan Trunojoyo No.23, -7.979174, 112.636952
+ABG, Jalan Trunojoyo No.23, -7.979717, 112.637000
+ABG, Jalan Trunojoyo No.23, -7.980022, 112.637103
+ABG, Jalan Trunojoyo, -7.980342, 112.637280
+ABG, Jalan Trunojoyo, -7.980546, 112.637506
+ABG, Jalan Embong Brantas No.1241, -7.980769, 112.637757
+ABG, Jalan Trunojoyo, -7.980900, 112.637902
+ABG, Jalan Gatot Subroto, -7.981050, 112.637883
+ABG, Jalan Gatot Subroto No.2, -7.981859, 112.637573
+ABG, Jalan Gatot Subroto No.2, -7.982390, 112.637345
+ABG, Jalan Aries Munandar, -7.982943, 112.637108
+ABG, Jalan Gatot Subroto No.32, -7.983426, 112.636964
+ABG, Jalan Gatot Subroto No.11E, -7.983886, 112.636827
+ABG, Gang 1, -7.984396, 112.636661
+ABG, Jalan Gatot Subroto No.50, -7.984776, 112.636524
+ABG, Jalan KH Ahmad Dahlan No.47, -7.985182, 112.636390
+ABG, Jalan Gatot Subroto No.66, -7.985671, 112.636205
+ABG, Jalan Gatot Subroto No.92-96, -7.986117, 112.636054
+ABG, Jalan Gatot Subroto No.79, -7.986484, 112.635936
+ABG, Jalan R.E. Martadinata No.26, -7.987108, 112.635700
+ABG, Jalan R.E. Martadinata No.26, -7.987597, 112.635523
+ABG, Jalan R.E. Martadinata No.26, -7.987979, 112.635387
+ABG, Jalan R.E. Martadinata No.26, -7.988473, 112.635201
+ABG, Jalan Laksamana Martadinata No.54, -7.988824, 112.635059
+ABG, Jalan Kyai Tamin No.125, -7.989262, 112.634882
+ABG, Gang 2, -7.989674, 112.634732
+ABG, Jalan R.E. Martadinata No.69, -7.990123, 112.634574
+ABG, Jalan Laksamana Martadinata No.71, -7.990282, 112.634515
+ABG, Jalan Laksamana Martadinata No.75, -7.990558, 112.634409
+ABG, Jalan Laksamana Martadinata No.85, -7.990623, 112.634423
+ABG, Jalan Laksamana Martadinata No.91, -7.990935, 112.634317
+ABG, Jalan Laksamana Martadinata No.97, -7.991404, 112.634172
+ABG, Jalan Laksamana Martadinata No.109, -7.991911, 112.634036
+ABG, Jalan Laksamana Martadinata No.113, -7.992300, 112.633926
+ABG, Jalan Laksamana Martadinata No.113, -7.992423, 112.633943
+ABG, Toko Beras, Jalan Sartono S.h, -7.992734, 112.633870
+ABG, Motor Sejati, Jalan Sartono S.h, -7.993005, 112.633802
+ABG, Jalan Laksamana Martadinata No.86, -7.993243, 112.633738
+ABG, Jalan Laksamana Martadinata No.86, -7.993475, 112.633672
+ABG, Jalan Laksamana Martadinata No.86, -7.993769, 112.633584
+ABG, Jalan Kolonel Sugiono No.37, -7.993877, 112.633558
+ABG, Jalan Kolonel Sugiono No.37, -7.994293, 112.633436
+ABG, Jalan Kolonel Sugiono No.37, -7.994550, 112.633375
+ABG, Jalan Kolonel Sugiono No.37, -7.994897, 112.633291
+ABG, Jalan Kolonel Sugiono No.37, -7.995124, 112.633240
+ABG, Jalan Kolonel Sugiono No.37, -7.995495, 112.633168
+ABG, Jalan Kolonel Sugiono No.43, -7.995795, 112.633107
+ABG, Jalan Kolonel Sugiono No.43, -7.995879, 112.633031
+ABG, Jalan Kolonel Sugiono No.51, -7.996035, 112.632991
+ABG, Jalan Kolonel Sugiono No.51, -7.996276, 112.632931
+ABG, Jalan Kolonel Sugiono No.81, -7.996580, 112.632850
+ABG, Jalan Kolonel Sugiono No.81, -7.996963, 112.632753
+ABG, Jalan Kolonel Sugiono 5, -7.997641, 112.632607
+ABG, Jalan Kolonel Sugiono No.103, -7.997730, 112.632563
+ABG, Jalan Kolonel Sugiono No.54, -7.997813, 112.632494
+ABG, Jalan Kolonel Sugiono No.54, -7.998264, 112.632374
+ABG, Gang IIIA No.14, -7.998750, 112.632262
+ABG, Jalan Kolonel Sugiono No.125, -7.999052, 112.632130
+ABG, Jalan Kolonel Sugiono No.44, -7.999425, 112.632003
+ABG, Jalan Kolonel Sugiono No.44, -7.999740, 112.631885
+ABG, Jalan Kolonel Sugiono No.146, -8.000064, 112.631739
+ABG, Jalan Kolonel Sugiono No.173, -8.000355, 112.631636
+ABG, Jalan Kolonel Sugiono No.173, -8.000659, 112.631527
+ABG, Jalan Kolonel Sugiono No.193, -8.000942, 112.631425
+ABG, Jalan Kolonel Sugiono No.193, -8.001303, 112.631302
+ABG, Jalan Kolonel Sugiono No.195, -8.001529, 112.631222
+ABG, Jalan Kolonel Sugiono No.195, -8.001766, 112.631117
+ABG, Gang I B, -8.002020, 112.631046
+ABG, Jalan Kolonel Sugiono No.90, -8.002432, 112.630885
+ABG, Jalan Kolonel Sugiono No.164, -8.002971, 112.630689
+ABG, Jalan Kolonel Sugiono No.164, -8.003406, 112.630543
+ABG, Jalan Kolonel Sugiono No.229, -8.003588, 112.630496
+ABG, Gang 10, -8.003781, 112.630420
+ABG, Jalan Kolonel Sugiono No.229, -8.004222, 112.630318
+ABG, Jalan Kolonel Sugiono No.229, -8.004547, 112.630249
+ABG, Jalan Kolonel Sugiono No.229, -8.005130, 112.630158
+ABG, Jalan Raya Gadang No.277, -8.005495, 112.630103
+ABG, Jalan Raya Gadang No.277, -8.005855, 112.630048
+ABG, Jalan Raya Gadang No.234, -8.014303, 112.628737
+ABG, Gang 12 A No.52, -8.014795, 112.628659
+ABG, Jalan Raya Gadang No.467, -8.015319, 112.628599
+ABG, Gang 12 B No.102, -8.015659, 112.628543
+ABG, Jalan Raya Gadang No.21 A, -8.016186, 112.628478
+ABG, Gang 21 A, -8.016288, 112.628480
+ABG, Jalan Kolonel Sugiono No.497, -8.016526, 112.628443
+ABG, Gadang Gang 21 B, -8.016862, 112.628399
+ABG, Jalan Kolonel Sugiono No.511, -8.017335, 112.628336
+ABG, Gang 21 C No.17, -8.017708, 112.628301
+ABG, Jalan Kolonel Sugiono No.262, -8.018037, 112.628238
+ABG, Jalan Kolonel Sugiono No.40, -8.018400, 112.628194
+ABG, Jalan Kolonel Sugiono No.262, -8.018844, 112.628125
+ABG, Jalan Raya Gadang No.42, -8.018984, 112.628104
+ABG, Jalan Kolonel Sugiono No.262, -8.019206, 112.628070
+ABG, Jalan Kolonel Sugiono No.7, -8.019976, 112.627974
+ABG, Jalan Kolonel Sugiono No.7, -8.020704, 112.627875
+ABG, Jalan Kolonel Sugiono No.7, -8.021208, 112.627796
+ABG, Jalan Kolonel Sugiono No.7, -8.021860, 112.627707
+ABG, Jalan Kolonel Sugiono No.7, -8.022240, 112.627651
+ABG, Terminal Gadang, -8.022337, 112.627858
